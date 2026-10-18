@@ -1,0 +1,62 @@
+{
+  "name": "Eksplozija Slatkog",
+  "url": "https://eksplozijaslatkog.ba",
+  "urlPlaceholder": true,
+  "basePath": "",
+  "defaultLang": "bs",
+  "languages": [
+    { "code": "bs", "label": "BS", "name": "Bosanski", "locale": "bs-BA", "currency": "KM", "hreflang": "bs" },
+    { "code": "en", "label": "EN", "name": "English", "locale": "en-GB", "currency": "BAM", "hreflang": "en" }
+  ],
+  "owner": {
+    "name": "Veldina Cokić",
+    "portrait": "veldina-portrait"
+  },
+  "city": "Mostar",
+  "region": "Hercegovačko-neretvanski kanton",
+  "country": "BA",
+  "geo": { "lat": 43.3438, "lng": 17.8078 },
+  "contact": {
+    "placeholder": true,
+    "phoneDisplay": "+387 60 000 0000",
+    "whatsapp": "38760000000",
+    "viber": "38760000000",
+    "email": "narudzbe@eksplozijaslatkog.ba",
+    "instagram": "eksplozija_slatkog",
+    "facebook": "https://www.facebook.com/eksplozija_slatkog"
+  },
+  "stats": {
+    "followers": "101K+",
+    "posts": "1.600+"
+  },
+  "press": {
+    "name": "Pogled.ba",
+    "url": "https://pogled.ba",
+    "placeholder": true
+  },
+  "hours": {
+    "placeholder": true,
+    "days": "1-6",
+    "open": "09:00",
+    "close": "19:00"
+  },
+  "ordering": {
+    "placeholder": true,
+    "leadTimeDays": { "torte": 3, "slavljenicke": 7, "kolaci": 2, "mini": 2, "peciva": 2 },
+    "customLeadTimeDays": 7,
+    "closedDays": [0],
+    "maxDaysAhead": 180,
+    "timeSlots": ["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00"],
+    "deliveryFeeMostar": 5,
+    "formEndpoint": ""
+  },
+  "instagramImages": [
+    "torta-mjesec-oblaci-1",
+    "pistacija-case-1",
+    "breskvice-1",
+    "torta-volani-masne-1",
+    "esterhazy-pistacija-1",
+    "cimet-rolnice-1"
+  ],
+  "heroThumbs": ["pistacija-malina-torta-1", "breskvice-1", "torta-mjesec-oblaci-1"]
+}

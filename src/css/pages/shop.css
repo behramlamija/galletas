@@ -1,0 +1,196 @@
+@layer pages {
+  /* ── Page hero (inner pages) ──────────────────────────────── */
+  .page-hero {
+    position: relative;
+    padding-block: var(--space-5) var(--space-6);
+    overflow: hidden;
+  }
+  .page-hero__bg {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+  }
+  .page-hero .page-lead {
+    max-width: 60ch;
+  }
+  .page-hero--compact {
+    padding-bottom: var(--space-3);
+  }
+  .page-hero--compact .page-title {
+    font-size: var(--step-3);
+  }
+
+  /* ── Product page ─────────────────────────────────────────── */
+  .product-layout {
+    display: grid;
+    gap: var(--space-6);
+    align-items: start;
+  }
+  @media (min-width: 900px) {
+    .product-layout {
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: var(--space-7);
+    }
+    .product-info {
+      position: sticky;
+      top: calc(var(--header-h) + var(--space-4));
+    }
+  }
+  .gallery {
+    display: grid;
+    gap: var(--space-3);
+  }
+  .gallery__main {
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    overflow: hidden;
+    border-radius: var(--radius-xl);
+    background: var(--surface-2);
+    box-shadow: var(--shadow);
+    cursor: zoom-in;
+  }
+  .gallery__slide,
+  .gallery__slide picture,
+  .gallery__slide img {
+    width: 100%;
+    height: 100%;
+  }
+  .gallery__slide img {
+    object-fit: cover;
+  }
+  .gallery__slide.is-active {
+    animation: fade-in 0.35s var(--ease);
+  }
+  .gallery__thumbs {
+    display: flex;
+    gap: var(--space-2);
+  }
+  .gallery__thumb {
+    width: 76px;
+    height: 76px;
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    border: 2px solid transparent;
+    opacity: 0.7;
+    transition:
+      opacity 0.2s,
+      border-color 0.2s;
+  }
+  .gallery__thumb img,
+  .gallery__thumb picture {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .gallery__thumb[aria-pressed='true'] {
+    border-color: var(--primary);
+    opacity: 1;
+  }
+  .product-info .eyebrow {
+    margin-bottom: var(--space-1);
+  }
+  .product-info__short {
+    font-size: var(--step-1);
+    color: var(--text-muted);
+    margin-bottom: var(--space-5);
+  }
+  .buy-box {
+    display: grid;
+    gap: var(--space-4);
+    padding: var(--space-5);
+    border-radius: var(--radius-lg);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+  }
+  .buy-box > .options + .options,
+  .buy-box > .options + .field,
+  .buy-box > .field + .field {
+    margin-top: 0;
+  }
+  .buy-box__price {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+  .buy-box__price .muted {
+    font-size: var(--step--1);
+  }
+  .price--big.is-updating {
+    animation: pop 0.35s var(--ease-bounce);
+  }
+  .buy-box__row {
+    display: flex;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+  .buy-box__add {
+    flex: 1 1 170px;
+  }
+  .buy-box__actions {
+    display: grid;
+    gap: var(--space-3);
+  }
+  .product-details {
+    display: grid;
+    gap: var(--space-6);
+    margin-top: var(--space-8);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--border);
+  }
+  @media (min-width: 900px) {
+    .product-details {
+      grid-template-columns: 1.4fr 1fr;
+      gap: var(--space-8);
+    }
+  }
+  .product-details h2 {
+    margin-bottom: var(--space-3);
+  }
+  .product-details__text > p {
+    font-size: var(--step-1);
+    line-height: 1.7;
+  }
+  .allergens {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-3);
+  }
+  .allergens li {
+    padding: 0.35em 0.85em;
+    border-radius: var(--radius-pill);
+    background: var(--surface-2);
+    font-size: var(--step--1);
+    font-weight: 600;
+  }
+  .recipe-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    margin-top: var(--space-5);
+    padding: var(--space-4) var(--space-5);
+    border-radius: var(--radius);
+    background: var(--surface-4);
+    text-decoration: none;
+    line-height: 1.4;
+    transition: transform 0.25s var(--ease);
+  }
+  .recipe-link:hover {
+    transform: translateX(4px);
+  }
+  .recipe-link > .icon:first-child {
+    width: 32px;
+    height: 32px;
+    color: var(--accent);
+  }
+  .recipe-link span {
+    flex: 1;
+  }
+  .related {
+    padding-top: var(--space-4);
+  }
+}

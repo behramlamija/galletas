@@ -1,0 +1,491 @@
+[
+  {
+    "id": "pistacija-malina-torta",
+    "product": "pistacija-malina-torta",
+    "category": "torte",
+    "title": { "bs": "Torta pistacija & malina", "en": "Pistachio & Raspberry Cake" },
+    "intro": {
+      "bs": "Ovo je torta koju mi najčešće naručujete, pa evo kako je pravim kod kuće. Tajna je u pravoj pasti od pistacije i filu od malina koji se kuha kratko, da zadrži svježinu.",
+      "en": "This is the cake you order from me most often, so here's how I make it at home. The secret is real pistachio paste and a raspberry filling that's cooked only briefly to keep it fresh."
+    },
+    "servings": 12,
+    "servingsUnit": { "bs": "osoba", "en": "servings" },
+    "prepMinutes": 60,
+    "bakeMinutes": 35,
+    "restMinutes": 360,
+    "difficulty": 2,
+    "groups": [
+      {
+        "title": { "bs": "Biskvit (kalup 24 cm)", "en": "Sponge (24 cm tin)" },
+        "items": [
+          { "qty": 6, "unit": "pcs", "name": { "bs": "jaja (sobne temperature)", "en": "eggs (room temperature)" } },
+          { "qty": 180, "unit": "g", "name": { "bs": "šećera", "en": "caster sugar" } },
+          { "qty": 180, "unit": "g", "name": { "bs": "glatkog brašna", "en": "plain flour" } },
+          { "qty": 8, "unit": "g", "name": { "bs": "praška za pecivo", "en": "baking powder" } },
+          { "qty": 1, "unit": "pkg", "name": { "bs": "vanilin šećera", "en": "vanilla sugar" } }
+        ]
+      },
+      {
+        "title": { "bs": "Fil od malina", "en": "Raspberry filling" },
+        "items": [
+          { "qty": 400, "unit": "g", "name": { "bs": "malina (mogu i smrznute)", "en": "raspberries (frozen is fine)" } },
+          { "qty": 80, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 20, "unit": "g", "name": { "bs": "kukuruznog škroba", "en": "cornflour" } },
+          { "qty": 1, "unit": "tbsp", "name": { "bs": "limunovog soka", "en": "lemon juice" } }
+        ]
+      },
+      {
+        "title": { "bs": "Krema od pistacije", "en": "Pistachio cream" },
+        "items": [
+          { "qty": 400, "unit": "ml", "name": { "bs": "hladnog slatkog vrhnja (35%)", "en": "cold double cream (35%)" } },
+          { "qty": 250, "unit": "g", "name": { "bs": "hladnog mascarponea", "en": "cold mascarpone" } },
+          { "qty": 120, "unit": "g", "name": { "bs": "paste od pistacije", "en": "pistachio paste" } },
+          { "qty": 60, "unit": "g", "name": { "bs": "šećera u prahu", "en": "icing sugar" } }
+        ]
+      },
+      {
+        "title": { "bs": "Natapanje i ukras", "en": "Soak & decoration" },
+        "items": [
+          { "qty": 200, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 50, "unit": "g", "name": { "bs": "mljevenih pistacija", "en": "ground pistachios" } },
+          { "qty": 100, "unit": "g", "name": { "bs": "svježih malina", "en": "fresh raspberries" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Zagrijte rernu na 175 °C. Dno kalupa od 24 cm obložite papirom za pečenje, stranice ne mastite.", "en": "Preheat the oven to 175 °C. Line the base of a 24 cm tin with baking paper; don't grease the sides." },
+      { "bs": "Jaja, šećer i vanilin šećer mutite mikserom 8–10 minuta, dok smjesa ne postane gusta, blijeda i utrostruči volumen.", "en": "Whisk the eggs, sugar and vanilla sugar for 8–10 minutes until thick, pale and tripled in volume." },
+      { "bs": "Brašno pomiješajte s praškom za pecivo, prosijte u smjesu u tri navrata i lagano umiješajte špatulom odozdo prema gore.", "en": "Mix the flour with the baking powder, sift it over the eggs in three additions and fold in gently with a spatula." },
+      { "bs": "Pecite 30–35 minuta, dok čačkalica ne izađe suha. Ostavite biskvit da se potpuno ohladi, pa ga prerežite na tri kore.", "en": "Bake for 30–35 minutes until a skewer comes out clean. Let the sponge cool completely, then slice it into three layers." },
+      { "bs": "Za fil: maline i šećer kuhajte 5 minuta. Škrob razmutite u limunovom soku i kašici vode, dodajte malinama i kuhajte još 1–2 minute uz miješanje. Ohladite.", "en": "For the filling: simmer the raspberries and sugar for 5 minutes. Mix the cornflour with the lemon juice and a spoon of water, stir into the berries and cook for 1–2 more minutes. Let it cool." },
+      { "bs": "Za kremu: hladan mascarpone, slatko vrhnje, šećer u prahu i pastu od pistacije mutite dok krema ne postane čvrsta. Ne mutite predugo.", "en": "For the cream: whip the cold mascarpone, cream, icing sugar and pistachio paste until firm. Don't overwhip." },
+      { "bs": "Slaganje: koru natopite mlijekom, namažite trećinu kreme i pola fila od malina. Ponovite, pa stavite treću koru i ostatak kreme premažite po vrhu i stranicama.", "en": "Assemble: soak a layer with milk, spread with a third of the cream and half the raspberry filling. Repeat, add the last layer and cover the top and sides with the remaining cream." },
+      { "bs": "Tortu ostavite u frižideru najmanje 6 sati, najbolje preko noći. Prije služenja pospite mljevenim pistacijama i ukrasite malinama.", "en": "Chill for at least 6 hours, ideally overnight. Before serving, sprinkle with ground pistachios and decorate with raspberries." }
+    ],
+    "tips": [
+      { "bs": "Pasta od pistacije treba biti 100% pistacija — tako krema dobije pravu boju i okus, bez umjetnih aroma.", "en": "Use 100% pistachio paste — it gives the cream its real colour and flavour, with no artificial aromas." },
+      { "bs": "Sve sastojke za kremu držite u frižideru do posljednjeg trenutka, tada se najbolje muti.", "en": "Keep all the cream ingredients in the fridge until the last moment — it whips best when cold." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "pistacija-malina-kocke",
+    "product": "pistacija-malina-kocke",
+    "category": "kolaci",
+    "title": { "bs": "Pistacija-malina kocke", "en": "Pistachio Raspberry Slices" },
+    "intro": {
+      "bs": "Kolač koji se reže u savršene kocke i izgleda kao iz izloga slastičarne. Malo je posla, ali svaki sloj je jednostavan.",
+      "en": "A slice that cuts into perfect squares and looks straight out of a pâtisserie window. A bit of work, but every layer is simple."
+    },
+    "servings": 40,
+    "servingsUnit": { "bs": "komada", "en": "pieces" },
+    "prepMinutes": 75,
+    "bakeMinutes": 20,
+    "restMinutes": 240,
+    "difficulty": 2,
+    "groups": [
+      {
+        "title": { "bs": "Podloga (tepsija 30×40 cm)", "en": "Base (30×40 cm tray)" },
+        "items": [
+          { "qty": 4, "unit": "pcs", "name": { "bs": "bjelanca", "en": "egg whites" } },
+          { "qty": 120, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 150, "unit": "g", "name": { "bs": "mljevenih badema", "en": "ground almonds" } },
+          { "qty": 40, "unit": "g", "name": { "bs": "glatkog brašna", "en": "plain flour" } }
+        ]
+      },
+      {
+        "title": { "bs": "Žele od malina", "en": "Raspberry jelly" },
+        "items": [
+          { "qty": 400, "unit": "g", "name": { "bs": "malina", "en": "raspberries" } },
+          { "qty": 100, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 12, "unit": "g", "name": { "bs": "želatine u listićima", "en": "leaf gelatine" } }
+        ]
+      },
+      {
+        "title": { "bs": "Krema od bijele čokolade", "en": "White chocolate cream" },
+        "items": [
+          { "qty": 200, "unit": "g", "name": { "bs": "bijele čokolade", "en": "white chocolate" } },
+          { "qty": 500, "unit": "ml", "name": { "bs": "slatkog vrhnja (35%)", "en": "double cream (35%)" } },
+          { "qty": 250, "unit": "g", "name": { "bs": "krem sira", "en": "cream cheese" } },
+          { "qty": 1, "unit": "pkg", "name": { "bs": "vanilin šećera", "en": "vanilla sugar" } }
+        ]
+      },
+      {
+        "title": { "bs": "Glazura od pistacije", "en": "Pistachio glaze" },
+        "items": [
+          { "qty": 150, "unit": "g", "name": { "bs": "bijele čokolade", "en": "white chocolate" } },
+          { "qty": 60, "unit": "g", "name": { "bs": "paste od pistacije", "en": "pistachio paste" } },
+          { "qty": 30, "unit": "ml", "name": { "bs": "neutralnog ulja", "en": "neutral oil" } },
+          { "qty": 40, "unit": "g", "name": { "bs": "sjeckanih pistacija", "en": "chopped pistachios" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Zagrijte rernu na 170 °C. Bjelanca umutite u čvrst snijeg, postepeno dodajući šećer.", "en": "Preheat the oven to 170 °C. Whisk the egg whites to stiff peaks, gradually adding the sugar." },
+      { "bs": "Lagano umiješajte bademe i brašno, razmažite u tepsiju obloženu papirom i pecite 18–20 minuta. Ohladite u tepsiji.", "en": "Gently fold in the almonds and flour, spread into a lined tray and bake for 18–20 minutes. Cool in the tray." },
+      { "bs": "Želatinu potopite u hladnu vodu. Maline i šećer kuhajte 5 minuta, sklonite s vatre i umiješajte ocijeđenu želatinu. Kad se prohladi, prelijte preko podloge i ostavite u frižideru 30 minuta.", "en": "Soak the gelatine in cold water. Simmer the raspberries and sugar for 5 minutes, take off the heat and stir in the squeezed gelatine. Once lukewarm, pour over the base and chill for 30 minutes." },
+      { "bs": "Bijelu čokoladu otopite sa 100 ml slatkog vrhnja i ohladite. Ostatak vrhnja umutite s krem sirom i vanilin šećerom, pa umiješajte čokoladu.", "en": "Melt the white chocolate with 100 ml of the cream and let it cool. Whip the rest of the cream with the cream cheese and vanilla sugar, then fold in the chocolate." },
+      { "bs": "Kremu razmažite preko stegnutog želea i poravnajte. Vratite u frižider na 2 sata.", "en": "Spread the cream over the set jelly and smooth it out. Return to the fridge for 2 hours." },
+      { "bs": "Za glazuru otopite čokoladu, umiješajte pastu od pistacije i ulje. Prelijte preko kreme, pospite pistacijama i ostavite da se stegne.", "en": "For the glaze, melt the chocolate and stir in the pistachio paste and oil. Pour over the cream, sprinkle with pistachios and let it set." },
+      { "bs": "Režite toplim, suhim nožem na kocke 5×6 cm.", "en": "Cut into 5×6 cm squares with a warm, dry knife." }
+    ],
+    "tips": [
+      { "bs": "Nož umočite u vruću vodu i obrišite prije svakog reza — kocke će biti potpuno ravne.", "en": "Dip the knife in hot water and wipe it before every cut — your squares will be perfectly clean." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "esterhazy-pistacija",
+    "product": "esterhazy-pistacija",
+    "category": "torte",
+    "title": { "bs": "Esterházy s pistacijom", "en": "Pistachio Esterházy Cake" },
+    "intro": {
+      "bs": "Klasična Esterházy torta koju sam osvježila pistacijom i tankim slojem maline. Kore se peku brzo, a kremu možete napraviti dan ranije.",
+      "en": "The classic Esterházy torte, refreshed with pistachio and a thin layer of raspberry. The layers bake quickly and the cream can be made a day ahead."
+    },
+    "servings": 12,
+    "servingsUnit": { "bs": "osoba", "en": "servings" },
+    "prepMinutes": 90,
+    "bakeMinutes": 50,
+    "restMinutes": 480,
+    "difficulty": 3,
+    "groups": [
+      {
+        "title": { "bs": "Kore (5 kom, Ø 24 cm)", "en": "Layers (5 × Ø 24 cm)" },
+        "items": [
+          { "qty": 8, "unit": "pcs", "name": { "bs": "bjelanaca", "en": "egg whites" } },
+          { "qty": 200, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 200, "unit": "g", "name": { "bs": "mljevenih prženih oraha", "en": "ground toasted walnuts" } },
+          { "qty": 40, "unit": "g", "name": { "bs": "glatkog brašna", "en": "plain flour" } }
+        ]
+      },
+      {
+        "title": { "bs": "Krema", "en": "Cream" },
+        "items": [
+          { "qty": 500, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 4, "unit": "pcs", "name": { "bs": "žumanca", "en": "egg yolks" } },
+          { "qty": 120, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 40, "unit": "g", "name": { "bs": "kukuruznog škroba", "en": "cornflour" } },
+          { "qty": 200, "unit": "g", "name": { "bs": "omekšalog putera", "en": "softened butter" } },
+          { "qty": 100, "unit": "g", "name": { "bs": "paste od pistacije", "en": "pistachio paste" } }
+        ]
+      },
+      {
+        "title": { "bs": "Fil i ukras", "en": "Filling & decoration" },
+        "items": [
+          { "qty": 150, "unit": "g", "name": { "bs": "džema od malina", "en": "raspberry jam" } },
+          { "qty": 100, "unit": "g", "name": { "bs": "bijele čokolade", "en": "white chocolate" } },
+          { "qty": 20, "unit": "g", "name": { "bs": "tamne čokolade", "en": "dark chocolate" } },
+          { "qty": 30, "unit": "g", "name": { "bs": "mljevenih pistacija", "en": "ground pistachios" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Na papirima za pečenje nacrtajte 5 krugova od 24 cm. Zagrijte rernu na 180 °C.", "en": "Draw five 24 cm circles on sheets of baking paper. Preheat the oven to 180 °C." },
+      { "bs": "Bjelanca umutite u čvrst snijeg sa šećerom. Lagano umiješajte orahe i brašno.", "en": "Whisk the egg whites with the sugar to stiff peaks. Gently fold in the walnuts and flour." },
+      { "bs": "Smjesu podijelite na 5 dijelova, razmažite u krugove i pecite svaku koru 8–10 minuta, dok ne dobije svijetlo zlatnu boju. Odmah skinite papir.", "en": "Divide the mixture into 5, spread into the circles and bake each layer for 8–10 minutes until light golden. Peel off the paper straight away." },
+      { "bs": "Za kremu: žumanca, šećer, škrob i malo mlijeka razmutite. Ostatak mlijeka zakuhajte, umiješajte žumanca i kuhajte uz stalno miješanje dok se ne zgusne. Prekrijte folijom i potpuno ohladite.", "en": "For the cream: whisk the yolks, sugar, cornflour and a little milk. Bring the rest of the milk to the boil, whisk in the yolk mixture and cook, stirring, until thick. Cover with cling film and cool completely." },
+      { "bs": "Puter umutite pjenasto, dodajte pastu od pistacije, pa kašiku po kašiku ohlađenu kremu.", "en": "Beat the butter until fluffy, add the pistachio paste, then the cooled custard one spoon at a time." },
+      { "bs": "Slažite koru, tanko džema, kremu — i tako redom. Gornju koru premažite tankim slojem kreme.", "en": "Layer: base, a thin spread of jam, cream — and repeat. Cover the top layer with a thin coat of cream." },
+      { "bs": "Prelijte otopljenom bijelom čokoladom. Tamnom čokoladom iscrtajte spiralu i čačkalicom povlačite od sredine prema rubu za uzorak paučine. Rubove pospite pistacijom.", "en": "Pour over the melted white chocolate. Pipe a spiral of dark chocolate and drag a toothpick from the centre to the edge for the feathered pattern. Press pistachios onto the sides." },
+      { "bs": "Ostavite tortu u frižideru preko noći da se kore omekšaju.", "en": "Chill overnight so the layers soften." }
+    ],
+    "tips": [
+      { "bs": "Puter i krema moraju biti iste temperature, inače se krema može zgrušati.", "en": "The butter and custard must be the same temperature, or the cream may split." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "breskvice",
+    "product": "breskvice",
+    "category": "kolaci",
+    "title": { "bs": "Breskvice", "en": "Peach Cookies (Breskvice)" },
+    "intro": {
+      "bs": "Breskvice su kolač mog djetinjstva i nema slavlja bez njih. Recept je jednostavniji nego što izgleda — samo budite strpljivi kod bojanja.",
+      "en": "Breskvice are the cookies of my childhood, and no celebration is complete without them. The recipe is simpler than it looks — just be patient when colouring them."
+    },
+    "servings": 30,
+    "servingsUnit": { "bs": "komada", "en": "pieces" },
+    "prepMinutes": 60,
+    "bakeMinutes": 15,
+    "restMinutes": 120,
+    "difficulty": 2,
+    "groups": [
+      {
+        "title": { "bs": "Tijesto", "en": "Dough" },
+        "items": [
+          { "qty": 2, "unit": "pcs", "name": { "bs": "jaja", "en": "eggs" } },
+          { "qty": 150, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 100, "unit": "ml", "name": { "bs": "ulja", "en": "oil" } },
+          { "qty": 100, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 1, "unit": "pkg", "name": { "bs": "vanilin šećera", "en": "vanilla sugar" } },
+          { "qty": 10, "unit": "g", "name": { "bs": "praška za pecivo", "en": "baking powder" } },
+          { "qty": 550, "unit": "g", "name": { "bs": "glatkog brašna (po potrebi)", "en": "plain flour (as needed)" } }
+        ]
+      },
+      {
+        "title": { "bs": "Fil", "en": "Filling" },
+        "items": [
+          { "qty": 100, "unit": "g", "name": { "bs": "mljevenih oraha", "en": "ground walnuts" } },
+          { "qty": 2, "unit": "tbsp", "name": { "bs": "kakaa", "en": "cocoa powder" } },
+          { "qty": 50, "unit": "g", "name": { "bs": "putera", "en": "butter" } },
+          { "qty": 150, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 1, "unit": "tsp", "name": { "bs": "arome ruma", "en": "rum extract" } }
+        ]
+      },
+      {
+        "title": { "bs": "Bojenje", "en": "Colouring" },
+        "items": [
+          { "qty": 200, "unit": "ml", "name": { "bs": "mlijeka ili soka", "en": "milk or juice" } },
+          { "qty": 1, "unit": "pinch", "name": { "bs": "crvene prehrambene boje", "en": "red food colouring" } },
+          { "qty": 1, "unit": "pinch", "name": { "bs": "žute prehrambene boje", "en": "yellow food colouring" } },
+          { "qty": 200, "unit": "g", "name": { "bs": "kristal šećera", "en": "granulated sugar" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Zagrijte rernu na 180 °C. Umutite jaja i šećer, dodajte ulje, mlijeko i vanilin šećer.", "en": "Preheat the oven to 180 °C. Whisk the eggs and sugar, then add the oil, milk and vanilla sugar." },
+      { "bs": "Dodajte prašak za pecivo i brašno postepeno, dok ne dobijete mekano tijesto koje se ne lijepi za ruke.", "en": "Add the baking powder and the flour gradually until you get a soft dough that doesn't stick to your hands." },
+      { "bs": "Oblikujte 60 kuglica veličine oraha i poređajte ih na lim obložen papirom, s razmakom.", "en": "Shape 60 walnut-sized balls and place them on a lined tray, spaced apart." },
+      { "bs": "Pecite 12–15 minuta — vrh treba ostati svijetao, a dno lagano zlatno.", "en": "Bake for 12–15 minutes — the tops should stay pale and the bottoms lightly golden." },
+      { "bs": "Dok su još tople, kašičicom izdubite sredinu sa ravne strane. Mrvice sačuvajte za fil.", "en": "While still warm, scoop out the centre from the flat side with a teaspoon. Keep the crumbs for the filling." },
+      { "bs": "Mlijeko, puter i kakao zagrijte, dodajte mrvice, orahe i aromu ruma i promiješajte u gustu kremu. Napunite polutke i spajajte ih po dvije.", "en": "Heat the milk, butter and cocoa, add the crumbs, walnuts and rum extract and mix into a thick paste. Fill the halves and press them together in pairs." },
+      { "bs": "Mlijeko podijelite u dvije posude i obojite crveno i žuto. Svaku breskvicu umočite s jedne strane u žutu, s druge u crvenu boju, pa uvaljajte u šećer.", "en": "Divide the milk between two bowls and colour one red and one yellow. Dip one side of each cookie in yellow and the other in red, then roll in sugar." },
+      { "bs": "Ostavite da se suše 2 sata. Po želji ukrasite listićem nane.", "en": "Leave to dry for 2 hours. Decorate with a mint leaf if you like." }
+    ],
+    "tips": [
+      { "bs": "Ne pecite ih predugo — breskvice moraju ostati mekane da bi upile boju i ostale sočne.", "en": "Don't overbake — the cookies must stay soft so they soak up the colour and stay moist." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "cokoladna-salama-pistacija",
+    "product": "cokoladna-salama-pistacija",
+    "category": "kolaci",
+    "title": { "bs": "Čokoladna salama s pistacijom", "en": "Chocolate Biscuit Log with Pistachio" },
+    "intro": {
+      "bs": "Kolač bez pečenja koji pravim kad treba nešto brzo, a da izgleda posebno. Pistacija na vrhu ga podiže na sasvim drugi nivo.",
+      "en": "A no-bake treat I make when I need something quick that still looks special. The pistachio on top takes it to another level."
+    },
+    "servings": 24,
+    "servingsUnit": { "bs": "kriški", "en": "slices" },
+    "prepMinutes": 25,
+    "bakeMinutes": 0,
+    "restMinutes": 240,
+    "difficulty": 1,
+    "groups": [
+      {
+        "title": { "bs": "Salama (2 rolata)", "en": "Log (makes 2)" },
+        "items": [
+          { "qty": 300, "unit": "g", "name": { "bs": "mliječne čokolade", "en": "milk chocolate" } },
+          { "qty": 100, "unit": "g", "name": { "bs": "putera", "en": "butter" } },
+          { "qty": 100, "unit": "ml", "name": { "bs": "slatkog vrhnja", "en": "double cream" } },
+          { "qty": 300, "unit": "g", "name": { "bs": "petit beurre keksa", "en": "petit beurre biscuits" } },
+          { "qty": 80, "unit": "g", "name": { "bs": "oljuštenih pistacija", "en": "shelled pistachios" } }
+        ]
+      },
+      {
+        "title": { "bs": "Preliv", "en": "Drizzle" },
+        "items": [
+          { "qty": 80, "unit": "g", "name": { "bs": "bijele čokolade", "en": "white chocolate" } },
+          { "qty": 30, "unit": "g", "name": { "bs": "paste od pistacije", "en": "pistachio paste" } },
+          { "qty": 20, "unit": "g", "name": { "bs": "sjeckanih pistacija za posipanje", "en": "chopped pistachios to sprinkle" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Čokoladu, puter i slatko vrhnje otopite na pari uz miješanje, dok ne dobijete glatku masu.", "en": "Melt the chocolate, butter and cream over a water bath, stirring, until smooth." },
+      { "bs": "Keks izlomite rukama na komade veličine nokta (ne meljite ga) i dodajte pistacije.", "en": "Break the biscuits by hand into fingernail-sized pieces (don't grind them) and add the pistachios." },
+      { "bs": "Prelijte čokoladom i dobro promiješajte da se svaki komadić obloži.", "en": "Pour over the chocolate and mix well so every piece is coated." },
+      { "bs": "Smjesu podijelite na dva dijela, stavite na prozirnu foliju i čvrsto zarolajte u valjke. Krajeve uvijte kao bombonu.", "en": "Divide the mixture in two, place on cling film and roll tightly into logs. Twist the ends like a sweet wrapper." },
+      { "bs": "Ostavite u frižideru najmanje 4 sata.", "en": "Chill for at least 4 hours." },
+      { "bs": "Otopite bijelu čokoladu s pastom od pistacije, prelijte preko rolata u tankim linijama i pospite pistacijama. Režite oštrim nožem.", "en": "Melt the white chocolate with the pistachio paste, drizzle over the logs in thin lines and sprinkle with pistachios. Slice with a sharp knife." }
+    ],
+    "tips": [
+      { "bs": "Za odrasle, u čokoladu dodajte kašiku ruma ili espresso za dublji okus.", "en": "For grown-ups, add a spoon of rum or espresso to the chocolate for a deeper flavour." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "pistacija-case",
+    "product": "pistacija-case",
+    "category": "mini",
+    "title": { "bs": "Pistacija čaše", "en": "Pistachio Dessert Cups" },
+    "intro": {
+      "bs": "Mini deserti koje gosti obožavaju jer svako dobije svoju čašicu. Slojevi se rade brzo, a izgledaju kao iz restorana.",
+      "en": "Mini desserts guests love because everyone gets their own cup. The layers come together quickly but look restaurant-worthy."
+    },
+    "servings": 12,
+    "servingsUnit": { "bs": "čaša", "en": "cups" },
+    "prepMinutes": 45,
+    "bakeMinutes": 0,
+    "restMinutes": 180,
+    "difficulty": 1,
+    "groups": [
+      {
+        "title": { "bs": "Podloga", "en": "Base" },
+        "items": [
+          { "qty": 150, "unit": "g", "name": { "bs": "keksa", "en": "biscuits" } },
+          { "qty": 50, "unit": "g", "name": { "bs": "otopljenog putera", "en": "melted butter" } }
+        ]
+      },
+      {
+        "title": { "bs": "Fil od malina", "en": "Raspberry layer" },
+        "items": [
+          { "qty": 250, "unit": "g", "name": { "bs": "malina", "en": "raspberries" } },
+          { "qty": 50, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 10, "unit": "g", "name": { "bs": "kukuruznog škroba", "en": "cornflour" } }
+        ]
+      },
+      {
+        "title": { "bs": "Vanilin krema", "en": "Vanilla custard" },
+        "items": [
+          { "qty": 400, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 2, "unit": "pcs", "name": { "bs": "žumanca", "en": "egg yolks" } },
+          { "qty": 60, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 30, "unit": "g", "name": { "bs": "kukuruznog škroba", "en": "cornflour" } },
+          { "qty": 1, "unit": "pkg", "name": { "bs": "vanilin šećera", "en": "vanilla sugar" } }
+        ]
+      },
+      {
+        "title": { "bs": "Krema od pistacije", "en": "Pistachio cream" },
+        "items": [
+          { "qty": 250, "unit": "g", "name": { "bs": "mascarponea", "en": "mascarpone" } },
+          { "qty": 200, "unit": "ml", "name": { "bs": "slatkog vrhnja", "en": "double cream" } },
+          { "qty": 80, "unit": "g", "name": { "bs": "paste od pistacije", "en": "pistachio paste" } },
+          { "qty": 40, "unit": "g", "name": { "bs": "šećera u prahu", "en": "icing sugar" } },
+          { "qty": 24, "unit": "pcs", "name": { "bs": "cijele pistacije za ukras", "en": "whole pistachios to decorate" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Keks sameljite, pomiješajte s otopljenim puterom i rasporedite na dno 12 čašica. Lagano utisnite kašičicom.", "en": "Crush the biscuits, mix with the melted butter and divide between 12 cups. Press down lightly with a teaspoon." },
+      { "bs": "Maline, šećer i škrob razmućen u kašici vode kuhajte 3–4 minute dok se ne zgusne. Ohladite i rasporedite preko keksa.", "en": "Cook the raspberries, sugar and the cornflour mixed with a spoon of water for 3–4 minutes until thick. Cool and spoon over the biscuit." },
+      { "bs": "Za vanilin kremu skuhajte puding od mlijeka, žumanaca, šećera, škroba i vanilin šećera. Prekrijte folijom, ohladite i rasporedite u čašice.", "en": "For the custard, cook the milk, yolks, sugar, cornflour and vanilla sugar into a thick pudding. Cover with film, cool, then add to the cups." },
+      { "bs": "Mascarpone, slatko vrhnje, šećer u prahu i pastu od pistacije umutite u čvrstu kremu. Ubacite u vrećicu za ukrašavanje i istisnite na vrh.", "en": "Whip the mascarpone, cream, icing sugar and pistachio paste until firm. Transfer to a piping bag and pipe on top." },
+      { "bs": "Ukrasite s dvije pistacije i ostavite u frižideru najmanje 3 sata.", "en": "Decorate with two pistachios each and chill for at least 3 hours." }
+    ],
+    "tips": [
+      { "bs": "Ako pravite dan ranije, čašice pokrijte folijom da krema ne upije mirise iz frižidera.", "en": "If making a day ahead, cover the cups so the cream doesn't absorb fridge smells." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "cimet-rolnice",
+    "product": "cimet-rolnice",
+    "category": "peciva",
+    "title": { "bs": "Cimet rolnice s vanilija kremom", "en": "Cinnamon Rolls with Vanilla Cream" },
+    "intro": {
+      "bs": "Kad ove rolnice izađu iz rerne, cijela kuća miriše na cimet. Umjesto klasične glazure prelivam ih toplom vanilija kremom — to je naš kućni potpis.",
+      "en": "When these come out of the oven, the whole house smells of cinnamon. Instead of a classic icing, I pour over a warm vanilla cream — it's our house signature."
+    },
+    "servings": 9,
+    "servingsUnit": { "bs": "komada", "en": "pieces" },
+    "prepMinutes": 40,
+    "bakeMinutes": 25,
+    "restMinutes": 90,
+    "difficulty": 2,
+    "groups": [
+      {
+        "title": { "bs": "Tijesto", "en": "Dough" },
+        "items": [
+          { "qty": 250, "unit": "ml", "name": { "bs": "mlakog mlijeka", "en": "lukewarm milk" } },
+          { "qty": 7, "unit": "g", "name": { "bs": "suhog kvasca", "en": "dried yeast" } },
+          { "qty": 50, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 1, "unit": "pcs", "name": { "bs": "jaje", "en": "egg" } },
+          { "qty": 60, "unit": "g", "name": { "bs": "otopljenog putera", "en": "melted butter" } },
+          { "qty": 450, "unit": "g", "name": { "bs": "glatkog brašna", "en": "plain flour" } },
+          { "qty": 1, "unit": "pinch", "name": { "bs": "soli", "en": "salt" } }
+        ]
+      },
+      {
+        "title": { "bs": "Fil", "en": "Filling" },
+        "items": [
+          { "qty": 80, "unit": "g", "name": { "bs": "omekšalog putera", "en": "softened butter" } },
+          { "qty": 120, "unit": "g", "name": { "bs": "smeđeg šećera", "en": "brown sugar" } },
+          { "qty": 2, "unit": "tbsp", "name": { "bs": "cimeta", "en": "ground cinnamon" } }
+        ]
+      },
+      {
+        "title": { "bs": "Vanilija krema", "en": "Vanilla cream" },
+        "items": [
+          { "qty": 300, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 1, "unit": "pcs", "name": { "bs": "žumance", "en": "egg yolk" } },
+          { "qty": 50, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 25, "unit": "g", "name": { "bs": "kukuruznog škroba", "en": "cornflour" } },
+          { "qty": 1, "unit": "pkg", "name": { "bs": "vanilin šećera", "en": "vanilla sugar" } },
+          { "qty": 100, "unit": "ml", "name": { "bs": "slatkog vrhnja", "en": "double cream" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "U mlako mlijeko dodajte kvasac i kašiku šećera i ostavite 10 minuta da se zapjeni.", "en": "Add the yeast and a spoon of the sugar to the warm milk and leave for 10 minutes until foamy." },
+      { "bs": "Dodajte ostatak šećera, jaje, otopljeni puter, so i brašno. Mijesite 8–10 minuta dok tijesto ne postane glatko i elastično.", "en": "Add the rest of the sugar, the egg, melted butter, salt and flour. Knead for 8–10 minutes until smooth and elastic." },
+      { "bs": "Pokrijte i ostavite na toplom 60 minuta, dok ne udvostruči volumen.", "en": "Cover and leave somewhere warm for 60 minutes until doubled." },
+      { "bs": "Tijesto razvaljajte u pravougaonik 30×40 cm. Namažite puterom i pospite smeđim šećerom pomiješanim s cimetom.", "en": "Roll the dough into a 30×40 cm rectangle. Spread with the butter and sprinkle with the brown sugar mixed with cinnamon." },
+      { "bs": "Čvrsto zarolajte po dužoj strani i koncem ili oštrim nožem izrežite 9 rolnica. Poređajte ih u kvadratnu tepsiju i ostavite još 30 minuta.", "en": "Roll up tightly from the long side and cut into 9 rolls with thread or a sharp knife. Arrange in a square tin and leave to rise for 30 more minutes." },
+      { "bs": "Pecite na 180 °C 22–25 minuta, dok ne porumene.", "en": "Bake at 180 °C for 22–25 minutes until golden." },
+      { "bs": "Za kremu skuhajte mlijeko, žumance, šećer, škrob i vanilin šećer u gust puding. Umiješajte slatko vrhnje i toplu kremu prelijte preko toplih rolnica.", "en": "For the cream, cook the milk, yolk, sugar, cornflour and vanilla sugar into a thick pudding. Stir in the cream and pour the warm cream over the warm rolls." }
+    ],
+    "tips": [
+      { "bs": "Za rezanje koristite konac — rolnice ostaju okrugle i ne gnječe se.", "en": "Use a piece of thread to cut the rolls — they stay round and don't get squashed." }
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "savijaca-krem",
+    "product": "savijaca-krem",
+    "category": "kolaci",
+    "title": { "bs": "Savijača s kremom", "en": "Cream Strudel" },
+    "intro": {
+      "bs": "Recept koji se kod nas prenosi s koljena na koljeno. Možete koristiti kupovne kore, ali preliv od mlijeka je obavezan — on je čini sočnom.",
+      "en": "A recipe passed down through the family. You can use shop-bought pastry sheets, but the milk soak is a must — that's what makes it so moist."
+    },
+    "servings": 12,
+    "servingsUnit": { "bs": "komada", "en": "pieces" },
+    "prepMinutes": 40,
+    "bakeMinutes": 35,
+    "restMinutes": 60,
+    "difficulty": 2,
+    "groups": [
+      {
+        "title": { "bs": "Kore", "en": "Pastry" },
+        "items": [
+          { "qty": 500, "unit": "g", "name": { "bs": "tankih kora za pitu", "en": "filo pastry sheets" } },
+          { "qty": 50, "unit": "ml", "name": { "bs": "ulja za premazivanje", "en": "oil for brushing" } }
+        ]
+      },
+      {
+        "title": { "bs": "Krema", "en": "Cream filling" },
+        "items": [
+          { "qty": 1000, "unit": "ml", "name": { "bs": "mlijeka", "en": "milk" } },
+          { "qty": 120, "unit": "g", "name": { "bs": "pšeničnog griza", "en": "semolina" } },
+          { "qty": 150, "unit": "g", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 3, "unit": "pcs", "name": { "bs": "jaja", "en": "eggs" } },
+          { "qty": 2, "unit": "pkg", "name": { "bs": "vanilin šećera", "en": "vanilla sugar" } },
+          { "qty": 100, "unit": "g", "name": { "bs": "putera", "en": "butter" } }
+        ]
+      },
+      {
+        "title": { "bs": "Preliv", "en": "Soak" },
+        "items": [
+          { "qty": 300, "unit": "ml", "name": { "bs": "toplog mlijeka", "en": "warm milk" } },
+          { "qty": 2, "unit": "tbsp", "name": { "bs": "šećera", "en": "sugar" } },
+          { "qty": 2, "unit": "tbsp", "name": { "bs": "šećera u prahu za posipanje", "en": "icing sugar to dust" } }
+        ]
+      }
+    ],
+    "steps": [
+      { "bs": "Mlijeko, šećer i vanilin šećer zakuhajte, pa uz stalno miješanje umiješajte griz. Kuhajte 3–4 minute, dodajte puter i ostavite da se prohladi.", "en": "Bring the milk, sugar and vanilla sugar to the boil, then whisk in the semolina. Cook for 3–4 minutes, stir in the butter and let it cool slightly." },
+      { "bs": "Kad je krema mlaka, umiješajte jedno po jedno jaje.", "en": "Once lukewarm, beat in the eggs one at a time." },
+      { "bs": "Zagrijte rernu na 200 °C. Dvije kore premažite uljem, preko stavite red kreme po dužoj strani i lagano zarolajte.", "en": "Preheat the oven to 200 °C. Brush two sheets with oil, spoon a line of cream along the long side and roll up loosely." },
+      { "bs": "Rolate slažite u nauljenu tepsiju jedan do drugog i premažite uljem.", "en": "Place the rolls side by side in an oiled tray and brush with oil." },
+      { "bs": "Pecite 30–35 minuta, dok ne dobiju zlatnu boju.", "en": "Bake for 30–35 minutes until golden." },
+      { "bs": "Toplo mlijeko pomiješajte sa šećerom i prelijte preko vruće savijače. Ostavite 1 sat da upije, pa pospite šećerom u prahu.", "en": "Mix the warm milk with the sugar and pour over the hot strudel. Leave for 1 hour to soak, then dust with icing sugar." }
+    ],
+    "tips": [
+      { "bs": "Kore držite pokrivene vlažnom krpom dok radite, da se ne osuše i ne lome.", "en": "Keep the pastry covered with a damp tea towel while you work so it doesn't dry out and crack." }
+    ],
+    "placeholder": true
+  }
+]

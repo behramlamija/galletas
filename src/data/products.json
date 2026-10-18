@@ -1,0 +1,517 @@
+[
+  {
+    "id": "pistacija-malina-torta",
+    "category": "torte",
+    "rank": 1,
+    "featured": true,
+    "badges": ["bestseller"],
+    "name": { "bs": "Torta pistacija & malina", "en": "Pistachio & Raspberry Cake" },
+    "short": {
+      "bs": "Sočni biskvit, krema od pistacije i kiselkasti fil od malina.",
+      "en": "Moist sponge, pistachio cream and a tangy raspberry layer."
+    },
+    "description": {
+      "bs": "Naša najtraženija torta. Mekani vanilin biskvit natopljen mlijekom, bogata krema od prave pistacijine paste i slojevi domaćeg fila od malina koji razbija slatkoću. Svaki komad ima onaj savršeni balans — kremasto, orašasto i blago kiselkasto. Ukrašava se mljevenom pistacijom i svježim malinama.",
+      "en": "Our most-loved cake. A soft vanilla sponge soaked in milk, a rich cream made with real pistachio paste and layers of homemade raspberry filling that cuts through the sweetness. Every slice has that perfect balance — creamy, nutty and gently tart. Finished with ground pistachios and fresh raspberries."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts"],
+    "images": ["pistacija-malina-torta-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 60 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 95 },
+        { "id": "l", "label": { "bs": "30 osoba", "en": "30 servings" }, "price": 135 }
+      ]
+    },
+    "flavours": null,
+    "inscription": true,
+    "recipe": "pistacija-malina-torta",
+    "placeholder": true
+  },
+  {
+    "id": "pistacija-malina-kocke",
+    "category": "kolaci",
+    "rank": 3,
+    "featured": true,
+    "badges": ["bestseller"],
+    "name": { "bs": "Pistacija-malina kocke", "en": "Pistachio Raspberry Slices" },
+    "short": {
+      "bs": "Hrskava podloga, mousse od bijele čokolade, malina i pistacija glazura.",
+      "en": "Crisp base, white chocolate mousse, raspberry and a pistachio glaze."
+    },
+    "description": {
+      "bs": "Kolač za kojim se poseže dva puta. Na hrskavoj podlozi od badema slažemo žele od malina, laganu kremu od bijele čokolade i završavamo sjajnom glazurom od pistacije. Reže se na uredne kocke — idealno za slavlja, posjete i kafu s prijateljicama.",
+      "en": "The slice everyone goes back for. A crisp almond base topped with raspberry jelly, a light white chocolate cream and a glossy pistachio glaze. Cut into neat squares — perfect for parties, guests and coffee with friends."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts"],
+    "images": ["pistacija-malina-kocke-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "half", "label": { "bs": "½ tepsije (~20 kom)", "en": "½ tray (~20 pcs)" }, "price": 30 },
+        { "id": "full", "label": { "bs": "Cijela tepsija (~40 kom)", "en": "Full tray (~40 pcs)" }, "price": 55 }
+      ]
+    },
+    "flavours": null,
+    "inscription": false,
+    "recipe": "pistacija-malina-kocke",
+    "placeholder": true
+  },
+  {
+    "id": "bademi-malina-kolac",
+    "category": "kolaci",
+    "rank": 9,
+    "featured": false,
+    "badges": [],
+    "name": { "bs": "Bademi & malina kolač", "en": "Almond & Raspberry Slice" },
+    "short": {
+      "bs": "Čokoladni biskvit s bademom, fil od malina i vanilin krema.",
+      "en": "Chocolate almond sponge, raspberry filling and vanilla cream."
+    },
+    "description": {
+      "bs": "Tamni, sočni biskvit s mljevenim bademima, debeo sloj fila od malina, svilenkasta vanilin krema i preliv od tamne čokolade. Klasik koji podsjeća na kolače iz bakine kuhinje, samo malo moderniji.",
+      "en": "A dark, moist sponge made with ground almonds, a generous layer of raspberry filling, silky vanilla cream and a dark chocolate topping. A classic that tastes like grandma's kitchen — just a little more modern."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts"],
+    "images": ["bademi-malina-kolac-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "half", "label": { "bs": "½ tepsije (~20 kom)", "en": "½ tray (~20 pcs)" }, "price": 28 },
+        { "id": "full", "label": { "bs": "Cijela tepsija (~40 kom)", "en": "Full tray (~40 pcs)" }, "price": 52 }
+      ]
+    },
+    "flavours": null,
+    "inscription": false,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "esterhazy-pistacija",
+    "category": "torte",
+    "rank": 4,
+    "featured": true,
+    "badges": ["new"],
+    "name": { "bs": "Esterházy s pistacijom", "en": "Pistachio Esterházy Cake" },
+    "short": {
+      "bs": "Kore od bjelanaca i oraha, krema od pistacije i tanki sloj maline.",
+      "en": "Meringue-nut layers, pistachio cream and a thin raspberry layer."
+    },
+    "description": {
+      "bs": "Naš twist na legendarnu Esterházy tortu. Tanke kore od bjelanaca i pečenih oraha, nježna krema od pistacije i tanak sloj fila od malina. Gornji dio je ukrašen tradicionalnim 'paukovim' uzorkom od bijele čokolade i pistacije.",
+      "en": "Our twist on the legendary Esterházy torte. Thin meringue layers with toasted walnuts, a delicate pistachio cream and a thin layer of raspberry filling. The top is finished with the classic feathered pattern in white chocolate and pistachio."
+    },
+    "allergens": ["eggs", "milk", "nuts"],
+    "images": ["esterhazy-pistacija-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 65 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 100 }
+      ]
+    },
+    "flavours": null,
+    "inscription": true,
+    "recipe": "esterhazy-pistacija",
+    "placeholder": true
+  },
+  {
+    "id": "breskvice",
+    "category": "kolaci",
+    "rank": 2,
+    "featured": true,
+    "badges": ["bestseller"],
+    "name": { "bs": "Breskvice", "en": "Peach Cookies (Breskvice)" },
+    "short": {
+      "bs": "Tradicionalni kolačići punjeni kremom od oraha i čokolade.",
+      "en": "Traditional cookies filled with a walnut and chocolate cream."
+    },
+    "description": {
+      "bs": "Kolačići koji izgledaju kao prave breskve — mekane polutke pune kreme od oraha i čokolade, umočene u ružičasti i žuti sok i uvaljane u šećer. Neizostavni na svakoj svadbi, rođendanu i bajramskom stolu.",
+      "en": "Little cookies that look just like real peaches — soft halves filled with a walnut and chocolate cream, dipped in pink and yellow syrup and rolled in sugar. A must at every wedding, birthday and holiday table."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts"],
+    "images": ["breskvice-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "30", "label": { "bs": "30 kom", "en": "30 pcs" }, "price": 25 },
+        { "id": "60", "label": { "bs": "60 kom", "en": "60 pcs" }, "price": 48 }
+      ]
+    },
+    "flavours": [
+      { "id": "klasik", "label": { "bs": "Klasične (orah & čokolada)", "en": "Classic (walnut & chocolate)" } },
+      { "id": "pistacija", "label": { "bs": "S kremom od pistacije", "en": "With pistachio cream" } }
+    ],
+    "inscription": false,
+    "recipe": "breskvice",
+    "placeholder": true
+  },
+  {
+    "id": "cokoladna-salama-pistacija",
+    "category": "kolaci",
+    "rank": 10,
+    "featured": true,
+    "badges": [],
+    "name": { "bs": "Čokoladna salama s pistacijom", "en": "Chocolate Biscuit Log with Pistachio" },
+    "short": {
+      "bs": "Kolač bez pečenja od čokolade i keksa, s pistacijom na vrhu.",
+      "en": "No-bake chocolate and biscuit log, topped with pistachio."
+    },
+    "description": {
+      "bs": "Omiljeni kolač bez pečenja: kremasta mliječna čokolada, puter i komadi keksa oblikovani u rolat, preliveni čokoladom od pistacije i posuti sjeckanim pistacijama. Reže se na kriške debljine prsta.",
+      "en": "A favourite no-bake treat: creamy milk chocolate, butter and chunks of biscuit shaped into a log, drizzled with pistachio chocolate and sprinkled with chopped pistachios. Sliced finger-thick."
+    },
+    "allergens": ["gluten", "milk", "nuts", "soy"],
+    "images": ["cokoladna-salama-pistacija-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "1", "label": { "bs": "1 rolat (~12 kriški)", "en": "1 log (~12 slices)" }, "price": 20 },
+        { "id": "2", "label": { "bs": "2 rolata (~24 kriške)", "en": "2 logs (~24 slices)" }, "price": 38 }
+      ]
+    },
+    "flavours": null,
+    "inscription": false,
+    "recipe": "cokoladna-salama-pistacija",
+    "placeholder": true
+  },
+  {
+    "id": "kremasta-torta-maline",
+    "category": "torte",
+    "rank": 6,
+    "featured": false,
+    "badges": [],
+    "name": { "bs": "Kremasta torta s malinama", "en": "Vanilla Raspberry Cream Cake" },
+    "short": {
+      "bs": "Vanilin biskvit, krem sir i šlag, kompot od malina.",
+      "en": "Vanilla sponge, cream cheese whip and raspberry compote."
+    },
+    "description": {
+      "bs": "Lagana, osvježavajuća torta za ljubitelje voćnih okusa. Tri sloja zračnog vanilin biskvita, krema od krem sira i šlaga te gusti kompot od malina koji se vidi u svakom presjeku. Spolja je ukrašena nježnom ružičastom kremom.",
+      "en": "A light, refreshing cake for fruit lovers. Three layers of airy vanilla sponge, a cream cheese and whipped cream filling and a thick raspberry compote that shows in every slice. Finished outside with a soft pink cream."
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["kremasta-torta-maline-1", "kremasta-torta-maline-2"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 55 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 90 },
+        { "id": "l", "label": { "bs": "30 osoba", "en": "30 servings" }, "price": 125 }
+      ]
+    },
+    "flavours": [
+      { "id": "malina", "label": { "bs": "Malina", "en": "Raspberry" } },
+      { "id": "sumsko", "label": { "bs": "Šumsko voće", "en": "Mixed berries" } },
+      { "id": "visnja", "label": { "bs": "Višnja", "en": "Sour cherry" } }
+    ],
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "torta-karamel-orah",
+    "category": "torte",
+    "rank": 8,
+    "featured": false,
+    "badges": [],
+    "name": { "bs": "Torta karamel & orah", "en": "Caramel Walnut Layer Cake" },
+    "short": {
+      "bs": "Kore od oraha, slana karamela i krema od mascarponea.",
+      "en": "Walnut layers, salted caramel and mascarpone cream."
+    },
+    "description": {
+      "bs": "Za one koji vole bogate, orašaste okuse. Tanke kore od pečenih oraha, domaća slana karamela i krema od mascarponea s notom vanilije. Svaki zalogaj je mekan, a opet ima hrskavost oraha.",
+      "en": "For lovers of rich, nutty flavours. Thin layers baked with toasted walnuts, homemade salted caramel and a mascarpone cream with a hint of vanilla. Soft in every bite, with the crunch of walnuts."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts"],
+    "images": ["torta-karamel-orah-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 60 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 95 }
+      ]
+    },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "plazma-krem-torta",
+    "category": "torte",
+    "rank": 7,
+    "featured": false,
+    "badges": [],
+    "name": { "bs": "Plazma krem torta", "en": "Plazma Biscuit Cream Cake" },
+    "short": {
+      "bs": "Slojevi plazma kreme, čokolade i šlaga na podlozi od keksa.",
+      "en": "Layers of Plazma biscuit cream, chocolate and whipped cream."
+    },
+    "description": {
+      "bs": "Torta s okusom djetinjstva. Kremasta vanilin krema s mljevenom Plazmom, sloj čokoladne kreme i lagani šlag na hrskavoj podlozi od keksa. Djeca je obožavaju, a odrasli uvijek traže još jedan komad.",
+      "en": "A cake that tastes like childhood. Creamy vanilla filling with ground Plazma biscuits, a chocolate cream layer and light whipped cream on a crunchy biscuit base. Kids adore it — and grown-ups always ask for another slice."
+    },
+    "allergens": ["gluten", "eggs", "milk", "soy"],
+    "images": ["plazma-krem-torta-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 50 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 80 }
+      ]
+    },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "torta-bijela-cokolada-ljesnjak",
+    "category": "torte",
+    "rank": 5,
+    "featured": true,
+    "badges": [],
+    "name": { "bs": "Bijela čokolada & lješnjak torta", "en": "White Chocolate Hazelnut Cake" },
+    "short": {
+      "bs": "Kore od lješnjaka, ganache od bijele čokolade i nugat krema.",
+      "en": "Hazelnut layers, white chocolate ganache and nougat cream."
+    },
+    "description": {
+      "bs": "Elegantna torta za posebne prilike. Kore od prženih lješnjaka, svilenkasti ganache od bijele čokolade i krema od nugata, obložena bijelom kremom s teksturom. Izgleda nježno, a okus je pun i bogat.",
+      "en": "An elegant cake for special occasions. Toasted hazelnut layers, a silky white chocolate ganache and a nougat cream, covered in textured white frosting. It looks delicate, but the flavour is full and rich."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts", "soy"],
+    "images": ["torta-bijela-cokolada-ljesnjak-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 60 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 95 },
+        { "id": "l", "label": { "bs": "30 osoba", "en": "30 servings" }, "price": 135 }
+      ]
+    },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "cokoladna-torta",
+    "category": "torte",
+    "rank": 11,
+    "featured": true,
+    "badges": [],
+    "name": { "bs": "Čokoladna torta (double choc)", "en": "Double Chocolate Layer Cake" },
+    "short": {
+      "bs": "Kakao biskvit, mousse od tamne i mliječne čokolade.",
+      "en": "Cocoa sponge with dark and milk chocolate mousse."
+    },
+    "description": {
+      "bs": "Za prave čokoholičare. Vlažni kakao biskvit u više tankih slojeva, mousse od tamne čokolade i krema od mliječne čokolade. Intenzivno, ali ne preslatko — savršeno uz crnu kafu.",
+      "en": "For true chocoholics. A moist cocoa sponge in several thin layers, dark chocolate mousse and milk chocolate cream. Intense but not too sweet — perfect with a black coffee."
+    },
+    "allergens": ["gluten", "eggs", "milk", "soy"],
+    "images": ["cokoladna-torta-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "s", "label": { "bs": "12 osoba", "en": "12 servings" }, "price": 60 },
+        { "id": "m", "label": { "bs": "20 osoba", "en": "20 servings" }, "price": 95 },
+        { "id": "l", "label": { "bs": "30 osoba", "en": "30 servings" }, "price": 135 }
+      ]
+    },
+    "flavours": [
+      { "id": "klasik", "label": { "bs": "Klasična", "en": "Classic" } },
+      { "id": "visnja", "label": { "bs": "S višnjama", "en": "With sour cherries" } },
+      { "id": "narandza", "label": { "bs": "S narandžom", "en": "With orange" } }
+    ],
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "pistacija-case",
+    "category": "mini",
+    "rank": 12,
+    "featured": true,
+    "badges": ["new"],
+    "name": { "bs": "Pistacija čaše", "en": "Pistachio Dessert Cups" },
+    "short": {
+      "bs": "Mini deserti u čašicama: keks, malina, vanilija i pistacija.",
+      "en": "Mini desserts in cups: biscuit, raspberry, vanilla and pistachio."
+    },
+    "description": {
+      "bs": "Elegantni deserti u pojedinačnim čašicama — idealni za švedske stolove, krštenja i proslave. Sloj mrvljenog keksa, fil od malina, vanilin krema i krema od pistacije, ukrašeno cijelim pistacijama. Bez rezanja, bez mrvljenja.",
+      "en": "Elegant individual desserts in cups — ideal for buffets, christenings and parties. A layer of crumbled biscuit, raspberry filling, vanilla cream and pistachio cream, topped with whole pistachios. No cutting, no mess."
+    },
+    "allergens": ["gluten", "eggs", "milk", "nuts"],
+    "images": ["pistacija-case-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "6", "label": { "bs": "6 kom", "en": "6 pcs" }, "price": 16 },
+        { "id": "12", "label": { "bs": "12 kom", "en": "12 pcs" }, "price": 30 },
+        { "id": "24", "label": { "bs": "24 kom", "en": "24 pcs" }, "price": 56 }
+      ]
+    },
+    "flavours": null,
+    "inscription": false,
+    "recipe": "pistacija-case",
+    "placeholder": true
+  },
+  {
+    "id": "cimet-rolnice",
+    "category": "peciva",
+    "rank": 13,
+    "featured": true,
+    "badges": ["seasonal"],
+    "name": { "bs": "Cimet rolnice s vanilija kremom", "en": "Cinnamon Rolls with Vanilla Cream" },
+    "short": {
+      "bs": "Mekane rolnice s cimetom i smeđim šećerom, prelivene vanilija kremom.",
+      "en": "Soft rolls with cinnamon and brown sugar, topped with vanilla cream."
+    },
+    "description": {
+      "bs": "Mirisne, mekane kao pamuk. Dizano tijesto s puterom, punjeno cimetom i smeđim šećerom, pečeno zajedno u tepsiji i bogato preliveno toplom vanilija kremom. Najbolje kad se jedu još mlake.",
+      "en": "Fragrant and soft as a cloud. Buttery yeast dough filled with cinnamon and brown sugar, baked together in a tray and generously covered with warm vanilla cream. Best eaten while still warm."
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["cimet-rolnice-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "9", "label": { "bs": "9 kom (tepsija)", "en": "9 pcs (tray)" }, "price": 18 },
+        { "id": "18", "label": { "bs": "18 kom (2 tepsije)", "en": "18 pcs (2 trays)" }, "price": 34 }
+      ]
+    },
+    "flavours": null,
+    "inscription": false,
+    "leadTimeDays": 1,
+    "recipe": "cimet-rolnice",
+    "placeholder": true
+  },
+  {
+    "id": "savijaca-krem",
+    "category": "kolaci",
+    "rank": 14,
+    "featured": false,
+    "badges": [],
+    "name": { "bs": "Savijača s kremom", "en": "Cream Strudel" },
+    "short": {
+      "bs": "Tanko razvučene kore punjene vanilin kremom, prelivene mlijekom.",
+      "en": "Paper-thin pastry filled with vanilla cream and soaked in milk."
+    },
+    "description": {
+      "bs": "Domaća savijača od tanko razvučenih kora, punjena kremom od griza i vanilije, pečena do zlatne boje i prelivena slatkim mlijekom dok je još topla. Posipa se šećerom u prahu. Ukus nedjeljnog ručka kod nane.",
+      "en": "Homemade strudel with hand-stretched pastry, filled with a semolina vanilla cream, baked golden and soaked in sweet milk while still warm. Dusted with icing sugar. Tastes like Sunday lunch at grandma's."
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["savijaca-krem-1"],
+    "pricing": {
+      "unit": "size",
+      "options": [
+        { "id": "tray", "label": { "bs": "Tepsija (~12 kom)", "en": "Tray (~12 pcs)" }, "price": 20 }
+      ]
+    },
+    "flavours": null,
+    "inscription": false,
+    "leadTimeDays": 1,
+    "recipe": "savijaca-krem",
+    "placeholder": true
+  },
+  {
+    "id": "torta-volani-masne",
+    "category": "slavljenicke",
+    "rank": 15,
+    "featured": true,
+    "badges": [],
+    "name": { "bs": "Slavljenička torta \"Volani & mašne\"", "en": "Celebration Cake \"Ruffles & Bows\"" },
+    "short": {
+      "bs": "Bijeli volani od kreme, bordo mašne i zlatni detalji.",
+      "en": "White cream ruffles, burgundy bows and gold details."
+    },
+    "description": {
+      "bs": "Romantična torta za rođendane, godišnjice i zaruke. Spolja ručno rađeni volani od kreme, satenske mašne i perlice; unutra okus po vašem izboru. Natpis i boje mašni prilagođavamo vašoj proslavi.",
+      "en": "A romantic cake for birthdays, anniversaries and engagements. Hand-piped cream ruffles, satin bows and pearls outside; your choice of flavour inside. We match the inscription and ribbon colours to your celebration."
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["torta-volani-masne-1"],
+    "pricing": { "unit": "quote", "from": 90 },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "torta-mjesec-oblaci",
+    "category": "slavljenicke",
+    "rank": 16,
+    "featured": true,
+    "badges": [],
+    "name": { "bs": "Dječija torta \"Mjesec i oblaci\"", "en": "Kids' Cake \"Moon & Clouds\"" },
+    "short": {
+      "bs": "Ružičasta torta s mjesecom, oblačićima i zlatnim kuglicama.",
+      "en": "Pink cake with a moon, little clouds and gold spheres."
+    },
+    "description": {
+      "bs": "Nježna torta za bebe, prve rođendane i baby shower. Mjesec od bijele čokolade, šećerni oblačići, zvjezdice i kuglice u zlatnoj i ružičastoj boji. Boje prilagođavamo — ružičasto, plavo ili neutralno.",
+      "en": "A sweet cake for babies, first birthdays and baby showers. A white chocolate moon, sugar clouds, little stars and spheres in gold and pink. We can adapt the colours — pink, blue or neutral."
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["torta-mjesec-oblaci-1"],
+    "pricing": { "unit": "quote", "from": 100 },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "torta-motor",
+    "category": "slavljenicke",
+    "rank": 17,
+    "featured": false,
+    "badges": [],
+    "name": { "bs": "Rođendanska torta \"Motor\"", "en": "Birthday Cake \"Racing Bike\"" },
+    "short": {
+      "bs": "Tematska torta s figurom motora i trkaćim zastavicama.",
+      "en": "Themed cake with a racing bike figure and chequered flags."
+    },
+    "description": {
+      "bs": "Za male (i velike) ljubitelje brzine. Ombre krema u plavim tonovima, figura motora, trkaće zastavice i broj godina. Tema, boje i figura se mogu prilagoditi — auto, fudbal, crtani junaci…",
+      "en": "For little (and big) speed lovers. Ombré cream in shades of blue, a racing bike figure, chequered flags and the birthday number. Theme, colours and figure can be changed — cars, football, cartoon heroes…"
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["torta-motor-1"],
+    "pricing": { "unit": "quote", "from": 110 },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  },
+  {
+    "id": "torta-masna-dvospratna",
+    "category": "slavljenicke",
+    "rank": 18,
+    "featured": true,
+    "badges": [],
+    "name": { "bs": "Dvospratna torta s mašnom", "en": "Two-Tier Bow Cake" },
+    "short": {
+      "bs": "Dva sprata, cvjetići od kreme i velika mašna od organdija.",
+      "en": "Two tiers, piped cream blossoms and a big organza bow."
+    },
+    "description": {
+      "bs": "Torta koja je centar proslave. Donji sprat u bijeloj, gornji u ružičastoj boji, ukrašeni cvjetićima od kreme i velikom mašnom od organdija. Idealna za drugi rođendan, krštenje ili akiku. Svaki sprat može biti drugog okusa.",
+      "en": "The cake that becomes the centrepiece. A white bottom tier and a pink top tier, decorated with piped cream blossoms and a large organza bow. Ideal for a second birthday, christening or aqiqah. Each tier can be a different flavour."
+    },
+    "allergens": ["gluten", "eggs", "milk"],
+    "images": ["torta-masna-dvospratna-1"],
+    "pricing": { "unit": "quote", "from": 160 },
+    "flavours": null,
+    "inscription": true,
+    "recipe": null,
+    "placeholder": true
+  }
+]

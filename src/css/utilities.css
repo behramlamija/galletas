@@ -1,0 +1,34 @@
+@layer utilities {
+  /* Scroll reveal — only hidden once JS confirms it can reveal them again. */
+  .js .reveal {
+    opacity: 0;
+    transform: translateY(16px);
+    transition:
+      opacity 0.7s var(--ease),
+      transform 0.7s var(--ease);
+  }
+  .js .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+  .js .steps .reveal:nth-child(2),
+  .js .values__grid .reveal:nth-child(2),
+  .js .contact__cards .reveal:nth-child(2) {
+    transition-delay: 0.08s;
+  }
+  .js .steps .reveal:nth-child(3),
+  .js .values__grid .reveal:nth-child(3),
+  .js .contact__cards .reveal:nth-child(3) {
+    transition-delay: 0.16s;
+  }
+  .js .steps .reveal:nth-child(4),
+  .js .values__grid .reveal:nth-child(4),
+  .js .contact__cards .reveal:nth-child(4) {
+    transition-delay: 0.24s;
+  }
+
+  /* Filtered-out cards */
+  .is-filtered-out {
+    display: none !important;
+  }
+}

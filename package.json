@@ -1,0 +1,27 @@
+{
+  "name": "eksplozija-slatkog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website for Eksplozija Slatkog — handmade cakes and pastries from Mostar.",
+  "author": "Lamija Behram",
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node build/dev.mjs",
+    "build": "node build/build.mjs",
+    "build:prod": "node build/build.mjs --prod",
+    "images": "node build/images.mjs",
+    "check": "node build/i18n-check.mjs",
+    "preview": "node build/dev.mjs --dist"
+  },
+  "devDependencies": {
+    "@fontsource-variable/fraunces": "^5.1.0",
+    "@fontsource/caveat": "^5.1.0",
+    "@fontsource-variable/dm-sans": "^5.1.0",
+    "esbuild": "^0.24.0",
+    "sharp": "^0.33.5"
+  }
+}

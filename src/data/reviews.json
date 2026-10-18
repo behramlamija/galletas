@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sample-1",
+    "placeholder": true,
+    "name": "Amra H.",
+    "occasion": { "bs": "Rođendan", "en": "Birthday" },
+    "rating": 5,
+    "text": {
+      "bs": "Torta pistacija & malina je bila hit proslave. Svi su pitali odakle je!",
+      "en": "The pistachio & raspberry cake was the star of the party. Everyone asked where it was from!"
+    }
+  },
+  {
+    "id": "sample-2",
+    "placeholder": true,
+    "name": "Selma K.",
+    "occasion": { "bs": "Krštenje / akika", "en": "Christening" },
+    "rating": 5,
+    "text": {
+      "bs": "Dvospratna torta s mašnom izgledala je još ljepše nego na slici. Hvala na strpljenju oko svih detalja.",
+      "en": "The two-tier bow cake looked even better than in the photo. Thank you for your patience with every detail."
+    }
+  },
+  {
+    "id": "sample-3",
+    "placeholder": true,
+    "name": "Mirza P.",
+    "occasion": { "bs": "Iznenađenje za mamu", "en": "Surprise for mum" },
+    "rating": 5,
+    "text": {
+      "bs": "Naručio sam iz Njemačke za mamin rođendan u Mostaru. Sve dogovoreno preko WhatsAppa za pet minuta.",
+      "en": "I ordered from Germany for my mum's birthday in Mostar. Everything was sorted over WhatsApp in five minutes."
+    }
+  },
+  {
+    "id": "sample-4",
+    "placeholder": true,
+    "name": "Lejla M.",
+    "occasion": { "bs": "Baby shower", "en": "Baby shower" },
+    "rating": 5,
+    "text": {
+      "bs": "Torta \"Mjesec i oblaci\" je bila prava bajka, a pistacija čaše su nestale za deset minuta.",
+      "en": "The \"Moon & Clouds\" cake was a fairytale, and the pistachio cups were gone in ten minutes."
+    }
+  },
+  {
+    "id": "sample-5",
+    "placeholder": true,
+    "name": "Dženana A.",
+    "occasion": { "bs": "Bajram", "en": "Eid" },
+    "rating": 5,
+    "text": {
+      "bs": "Breskvice kao kod nane, samo još ljepše složene. Naručujem svake godine.",
+      "en": "Breskvice just like grandma's, only even prettier. I order them every year."
+    }
+  }
+]

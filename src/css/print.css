@@ -1,0 +1,78 @@
+@media print {
+  @page {
+    margin: 16mm;
+  }
+  :root {
+    --bg: #fff !important;
+    --surface: #fff !important;
+    --text: #000 !important;
+  }
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 11pt;
+  }
+  body::before,
+  .site-header,
+  .site-footer,
+  .order-bar,
+  .toasts,
+  .cookie-note,
+  .skip-link,
+  .breadcrumbs,
+  .recipe-hero__actions,
+  .order-it,
+  .stepper,
+  .ingredient__check,
+  .ingredient__strike,
+  .page-hero__bg,
+  .burst-canvas,
+  .success__actions,
+  .related,
+  [data-order-layout],
+  .page-hero,
+  .modal {
+    display: none !important;
+  }
+  .section {
+    padding: 0 !important;
+  }
+  .card,
+  .method__steps li,
+  .tip,
+  .recipe-stats li,
+  .success__card {
+    box-shadow: none !important;
+    border: 1px solid #ddd !important;
+    background: #fff !important;
+    break-inside: avoid;
+  }
+  .recipe-layout {
+    display: block !important;
+  }
+  .ingredients {
+    position: static !important;
+    max-height: none !important;
+    margin-bottom: 8mm;
+  }
+  .recipe-hero__media img {
+    max-width: 60mm;
+    outline: 0 !important;
+    box-shadow: none !important;
+  }
+  .recipe-hero__grid {
+    grid-template-columns: 1fr 60mm !important;
+  }
+  .success__summary {
+    max-height: none !important;
+    overflow: visible !important;
+    font-size: 10pt;
+  }
+  .js .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  a {
+    text-decoration: none;
+  }
+}

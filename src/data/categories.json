@@ -1,0 +1,7 @@
+[
+  { "id": "torte", "icon": "cake", "name": { "bs": "Torte", "en": "Cakes" } },
+  { "id": "slavljenicke", "icon": "party", "name": { "bs": "Slavljeničke", "en": "Celebration" } },
+  { "id": "kolaci", "icon": "slice", "name": { "bs": "Kolači", "en": "Pastries" } },
+  { "id": "mini", "icon": "cup", "name": { "bs": "Mini deserti", "en": "Mini desserts" } },
+  { "id": "peciva", "icon": "roll", "name": { "bs": "Slatka peciva", "en": "Sweet bakes" } }
+]

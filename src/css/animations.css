@@ -1,0 +1,158 @@
+@layer animations {
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  @keyframes wobble {
+    0%,
+    100% {
+      transform: rotate(0);
+    }
+    25% {
+      transform: rotate(-8deg);
+    }
+    60% {
+      transform: rotate(6deg);
+    }
+  }
+  @keyframes spin-slow {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes cookie-bounce {
+    0% {
+      transform: scale(1);
+    }
+    30% {
+      transform: scale(1.45) rotate(-10deg);
+    }
+    60% {
+      transform: scale(0.9) rotate(6deg);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @keyframes pop {
+    0% {
+      transform: scale(0.85);
+    }
+    60% {
+      transform: scale(1.08);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @keyframes crumb-fall {
+    0% {
+      opacity: 1;
+      transform: translate(0, 0) rotate(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translate(-14px, 46px) rotate(140deg);
+    }
+  }
+  @keyframes crumb-drop {
+    0% {
+      opacity: 0;
+      transform: translateY(0);
+    }
+    15% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(60px) rotate(180deg);
+    }
+  }
+  @keyframes toast-in {
+    from {
+      opacity: 0;
+      transform: translateY(16px) scale(0.96);
+    }
+  }
+  @keyframes toast-out {
+    to {
+      opacity: 0;
+      transform: translateY(10px) scale(0.96);
+    }
+  }
+  @keyframes modal-in {
+    from {
+      opacity: 0;
+      transform: translateY(16px) scale(0.97);
+    }
+  }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+  }
+  @keyframes fade-down {
+    from {
+      opacity: 0;
+      transform: translateY(-6px);
+    }
+  }
+  @keyframes slide-in {
+    from {
+      opacity: 0;
+      transform: translateX(-12px);
+    }
+  }
+  @keyframes slide-out {
+    to {
+      opacity: 0;
+      transform: translateX(24px);
+    }
+  }
+
+  /* Crumb trail particles in the hero (desktop, see src/js/fx/crumbs.js) */
+  .crumb {
+    position: fixed;
+    z-index: 30;
+    width: 6px;
+    height: 6px;
+    border-radius: 40% 60% 55% 45%;
+    pointer-events: none;
+    background: var(--color-dough);
+  }
+
+  /* Flying cookie when adding to the basket (src/js/fx/fly.js) */
+  .fly-cookie {
+    position: fixed;
+    z-index: 90;
+    width: 34px;
+    height: 34px;
+    margin: -17px 0 0 -17px;
+    pointer-events: none;
+    color: var(--color-cookie);
+  }
+  .fly-cookie svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+    .js .reveal {
+      opacity: 1;
+      transform: none;
+    }
+  }
+}
