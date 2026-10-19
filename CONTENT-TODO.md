@@ -16,6 +16,11 @@ a zatim se pokrene `npm run build:prod`.
 - [ ] **Dostava** — cijena u Mostaru (`ordering.deliveryFeeMostar`, trenutno 5 KM) i zone izvan Mostara.
 - [ ] **Termini preuzimanja** (`ordering.timeSlots`).
 
+## Objava
+
+- [ ] Kada je sve spremno za javnost, u `src/data/site.json` postaviti `"hideFromSearch": false`
+      (tada Google može indeksirati stranicu i dobija sitemap).
+
 ## Proizvodi — `src/data/products.json`
 
 - [ ] **Cijene i veličine** za svih 18 proizvoda (sve su okvirne / izmišljene).

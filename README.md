@@ -71,6 +71,11 @@ Everything is in `src/data/site.json`:
 `ordering.leadTimeDays` (per category), `ordering.closedDays` (0 = Sunday), `ordering.timeSlots`,
 `ordering.deliveryFeeMostar`, `hours`, `press.url`, and `url` (the final domain — used for canonical URLs and the sitemap).
 
+### Demo mode / search engines
+
+`"hideFromSearch": true` in `site.json` adds `noindex, nofollow` to every page and an `X-Robots-Tag` header,
+and leaves the sitemap out of `robots.txt`. Set it to `false` when the site goes public.
+
 ### Add a language
 
 1. Copy `src/i18n/en.json` to `src/i18n/xx.json` and translate it (including `routes`).

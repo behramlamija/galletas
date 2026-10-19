@@ -2,6 +2,7 @@
   "name": "Eksplozija Slatkog",
   "url": "https://galletas.behramlamija.workers.dev",
   "urlPlaceholder": false,
+  "hideFromSearch": true,
   "basePath": "",
   "defaultLang": "bs",
   "languages": [

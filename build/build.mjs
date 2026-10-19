@@ -173,7 +173,9 @@ export async function build({ prod = false, dev = false } = {}) {
     'sitemap.xml',
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${sitemapEntries}\n</urlset>\n`,
   );
-  write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}${base}/sitemap.xml\n`);
+  // site.hideFromSearch: demo mode - the site works for anyone with the link but search engines skip it.
+  // Crawling stays allowed on purpose: a crawler has to read the page to see its "noindex".
+  write('robots.txt', `User-agent: *\nAllow: /\n${site.hideFromSearch ? '' : `\nSitemap: ${siteUrl}${base}/sitemap.xml\n`}`);
 
   const formOrigin = site.ordering.formEndpoint ? new URL(site.ordering.formEndpoint).origin : '';
   const csp = [
@@ -190,7 +192,7 @@ export async function build({ prod = false, dev = false } = {}) {
   ].join('; ');
   write(
     '_headers',
-    `/*\n  Content-Security-Policy: ${csp}\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Content-Type-Options: nosniff\n  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()\n` +
+    `/*\n  Content-Security-Policy: ${csp}\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Content-Type-Options: nosniff\n  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()\n${site.hideFromSearch ? '  X-Robots-Tag: noindex, nofollow\n' : ''}` +
       // Long caching only where file names change with their content (production build).
       (prod
         ? ['/assets/img/*', '/assets/fonts/*', '/assets/main.*', '/assets/theme.*']

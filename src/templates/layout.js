@@ -58,7 +58,7 @@ export function layout(ctx, { title, description, body, pageClass = '', jsonld =
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>${fullTitle}</title>
 <meta name="description" content="${description}">
-${noindex ? html`<meta name="robots" content="noindex">` : ''}
+${noindex || site.hideFromSearch ? html`<meta name="robots" content="noindex, nofollow">` : ''}
 ${canonical ? html`<link rel="canonical" href="${canonical}">` : ''}
 ${alternates.map((a) => html`<link rel="alternate" hreflang="${a.hreflang}" href="${a.href}">`)}
 ${alternates.length ? html`<link rel="alternate" hreflang="x-default" href="${ctx.absolute(ctx.url(current.route, current.slug, site.defaultLang))}">` : ''}
