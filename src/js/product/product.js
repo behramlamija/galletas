@@ -51,7 +51,7 @@ function initBuyForm() {
     if (wa) {
       const flavour = product.flavours.find((f) => f.id === sel.flavour);
       const parts = [`${sel.qty}× ${product.nameBs}`, option?.labelBs, flavour && `okus: ${flavour.labelBs}`, sel.inscription && `natpis: "${sel.inscription}"`];
-      const text = `Zdravo! Želim naručiti: ${parts.filter(Boolean).join(' — ')}${app().lang !== 'bs' ? ' [EN]' : ''}`;
+      const text = `Zdravo! Želim naručiti: ${parts.filter(Boolean).join(' - ')}${app().lang !== 'bs' ? ' [EN]' : ''}`;
       wa.href = `https://wa.me/${app().contact.whatsapp}?text=${encodeURIComponent(text)}`;
     }
   };

@@ -1,4 +1,4 @@
-/* Eksplozija Slatkog — stylesheet entry. Each partial wraps its rules in one of these layers. */
+/* Eksplozija Slatkog - stylesheet entry. Each partial wraps its rules in one of these layers. */
 @layer reset, tokens, base, components, pages, utilities, animations;
 
 @import './reset.css';

@@ -39,7 +39,7 @@ export function icon(name) {
   svg.setAttribute('stroke-linecap', 'round');
   svg.setAttribute('stroke-linejoin', 'round');
   svg.setAttribute('aria-hidden', 'true');
-  // Static, trusted markup defined above — not user input.
+  // Static, trusted markup defined above - not user input.
   svg.innerHTML = ICONS[name];
   return svg;
 }

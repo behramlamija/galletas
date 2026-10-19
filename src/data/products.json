@@ -11,8 +11,8 @@
       "en": "Moist sponge, pistachio cream and a tangy raspberry layer."
     },
     "description": {
-      "bs": "Naša najtraženija torta. Mekani vanilin biskvit natopljen mlijekom, bogata krema od prave pistacijine paste i slojevi domaćeg fila od malina koji razbija slatkoću. Svaki komad ima onaj savršeni balans — kremasto, orašasto i blago kiselkasto. Ukrašava se mljevenom pistacijom i svježim malinama.",
-      "en": "Our most-loved cake. A soft vanilla sponge soaked in milk, a rich cream made with real pistachio paste and layers of homemade raspberry filling that cuts through the sweetness. Every slice has that perfect balance — creamy, nutty and gently tart. Finished with ground pistachios and fresh raspberries."
+      "bs": "Naša najtraženija torta. Mekani vanilin biskvit natopljen mlijekom, bogata krema od prave pistacijine paste i slojevi domaćeg fila od malina koji razbija slatkoću. Svaki komad ima onaj savršeni balans - kremasto, orašasto i blago kiselkasto. Ukrašava se mljevenom pistacijom i svježim malinama.",
+      "en": "Our most-loved cake. A soft vanilla sponge soaked in milk, a rich cream made with real pistachio paste and layers of homemade raspberry filling that cuts through the sweetness. Every slice has that perfect balance - creamy, nutty and gently tart. Finished with ground pistachios and fresh raspberries."
     },
     "allergens": ["gluten", "eggs", "milk", "nuts"],
     "images": ["pistacija-malina-torta-1"],
@@ -41,8 +41,8 @@
       "en": "Crisp base, white chocolate mousse, raspberry and a pistachio glaze."
     },
     "description": {
-      "bs": "Kolač za kojim se poseže dva puta. Na hrskavoj podlozi od badema slažemo žele od malina, laganu kremu od bijele čokolade i završavamo sjajnom glazurom od pistacije. Reže se na uredne kocke — idealno za slavlja, posjete i kafu s prijateljicama.",
-      "en": "The slice everyone goes back for. A crisp almond base topped with raspberry jelly, a light white chocolate cream and a glossy pistachio glaze. Cut into neat squares — perfect for parties, guests and coffee with friends."
+      "bs": "Kolač za kojim se poseže dva puta. Na hrskavoj podlozi od badema slažemo žele od malina, laganu kremu od bijele čokolade i završavamo sjajnom glazurom od pistacije. Reže se na uredne kocke - idealno za slavlja, posjete i kafu s prijateljicama.",
+      "en": "The slice everyone goes back for. A crisp almond base topped with raspberry jelly, a light white chocolate cream and a glossy pistachio glaze. Cut into neat squares - perfect for parties, guests and coffee with friends."
     },
     "allergens": ["gluten", "eggs", "milk", "nuts"],
     "images": ["pistacija-malina-kocke-1"],
@@ -71,7 +71,7 @@
     },
     "description": {
       "bs": "Tamni, sočni biskvit s mljevenim bademima, debeo sloj fila od malina, svilenkasta vanilin krema i preliv od tamne čokolade. Klasik koji podsjeća na kolače iz bakine kuhinje, samo malo moderniji.",
-      "en": "A dark, moist sponge made with ground almonds, a generous layer of raspberry filling, silky vanilla cream and a dark chocolate topping. A classic that tastes like grandma's kitchen — just a little more modern."
+      "en": "A dark, moist sponge made with ground almonds, a generous layer of raspberry filling, silky vanilla cream and a dark chocolate topping. A classic that tastes like grandma's kitchen - just a little more modern."
     },
     "allergens": ["gluten", "eggs", "milk", "nuts"],
     "images": ["bademi-malina-kolac-1"],
@@ -128,8 +128,8 @@
       "en": "Traditional cookies filled with a walnut and chocolate cream."
     },
     "description": {
-      "bs": "Kolačići koji izgledaju kao prave breskve — mekane polutke pune kreme od oraha i čokolade, umočene u ružičasti i žuti sok i uvaljane u šećer. Neizostavni na svakoj svadbi, rođendanu i bajramskom stolu.",
-      "en": "Little cookies that look just like real peaches — soft halves filled with a walnut and chocolate cream, dipped in pink and yellow syrup and rolled in sugar. A must at every wedding, birthday and holiday table."
+      "bs": "Kolačići koji izgledaju kao prave breskve - mekane polutke pune kreme od oraha i čokolade, umočene u ružičasti i žuti sok i uvaljane u šećer. Neizostavni na svakoj svadbi, rođendanu i bajramskom stolu.",
+      "en": "Little cookies that look just like real peaches - soft halves filled with a walnut and chocolate cream, dipped in pink and yellow syrup and rolled in sugar. A must at every wedding, birthday and holiday table."
     },
     "allergens": ["gluten", "eggs", "milk", "nuts"],
     "images": ["breskvice-1"],
@@ -253,7 +253,7 @@
     },
     "description": {
       "bs": "Torta s okusom djetinjstva. Kremasta vanilin krema s mljevenom Plazmom, sloj čokoladne kreme i lagani šlag na hrskavoj podlozi od keksa. Djeca je obožavaju, a odrasli uvijek traže još jedan komad.",
-      "en": "A cake that tastes like childhood. Creamy vanilla filling with ground Plazma biscuits, a chocolate cream layer and light whipped cream on a crunchy biscuit base. Kids adore it — and grown-ups always ask for another slice."
+      "en": "A cake that tastes like childhood. Creamy vanilla filling with ground Plazma biscuits, a chocolate cream layer and light whipped cream on a crunchy biscuit base. Kids adore it - and grown-ups always ask for another slice."
     },
     "allergens": ["gluten", "eggs", "milk", "soy"],
     "images": ["plazma-krem-torta-1"],
@@ -311,8 +311,8 @@
       "en": "Cocoa sponge with dark and milk chocolate mousse."
     },
     "description": {
-      "bs": "Za prave čokoholičare. Vlažni kakao biskvit u više tankih slojeva, mousse od tamne čokolade i krema od mliječne čokolade. Intenzivno, ali ne preslatko — savršeno uz crnu kafu.",
-      "en": "For true chocoholics. A moist cocoa sponge in several thin layers, dark chocolate mousse and milk chocolate cream. Intense but not too sweet — perfect with a black coffee."
+      "bs": "Za prave čokoholičare. Vlažni kakao biskvit u više tankih slojeva, mousse od tamne čokolade i krema od mliječne čokolade. Intenzivno, ali ne preslatko - savršeno uz crnu kafu.",
+      "en": "For true chocoholics. A moist cocoa sponge in several thin layers, dark chocolate mousse and milk chocolate cream. Intense but not too sweet - perfect with a black coffee."
     },
     "allergens": ["gluten", "eggs", "milk", "soy"],
     "images": ["cokoladna-torta-1"],
@@ -345,8 +345,8 @@
       "en": "Mini desserts in cups: biscuit, raspberry, vanilla and pistachio."
     },
     "description": {
-      "bs": "Elegantni deserti u pojedinačnim čašicama — idealni za švedske stolove, krštenja i proslave. Sloj mrvljenog keksa, fil od malina, vanilin krema i krema od pistacije, ukrašeno cijelim pistacijama. Bez rezanja, bez mrvljenja.",
-      "en": "Elegant individual desserts in cups — ideal for buffets, christenings and parties. A layer of crumbled biscuit, raspberry filling, vanilla cream and pistachio cream, topped with whole pistachios. No cutting, no mess."
+      "bs": "Elegantni deserti u pojedinačnim čašicama - idealni za švedske stolove, krštenja i proslave. Sloj mrvljenog keksa, fil od malina, vanilin krema i krema od pistacije, ukrašeno cijelim pistacijama. Bez rezanja, bez mrvljenja.",
+      "en": "Elegant individual desserts in cups - ideal for buffets, christenings and parties. A layer of crumbled biscuit, raspberry filling, vanilla cream and pistachio cream, topped with whole pistachios. No cutting, no mess."
     },
     "allergens": ["gluten", "eggs", "milk", "nuts"],
     "images": ["pistacija-case-1"],
@@ -457,8 +457,8 @@
       "en": "Pink cake with a moon, little clouds and gold spheres."
     },
     "description": {
-      "bs": "Nježna torta za bebe, prve rođendane i baby shower. Mjesec od bijele čokolade, šećerni oblačići, zvjezdice i kuglice u zlatnoj i ružičastoj boji. Boje prilagođavamo — ružičasto, plavo ili neutralno.",
-      "en": "A sweet cake for babies, first birthdays and baby showers. A white chocolate moon, sugar clouds, little stars and spheres in gold and pink. We can adapt the colours — pink, blue or neutral."
+      "bs": "Nježna torta za bebe, prve rođendane i baby shower. Mjesec od bijele čokolade, šećerni oblačići, zvjezdice i kuglice u zlatnoj i ružičastoj boji. Boje prilagođavamo - ružičasto, plavo ili neutralno.",
+      "en": "A sweet cake for babies, first birthdays and baby showers. A white chocolate moon, sugar clouds, little stars and spheres in gold and pink. We can adapt the colours - pink, blue or neutral."
     },
     "allergens": ["gluten", "eggs", "milk"],
     "images": ["torta-mjesec-oblaci-1"],
@@ -480,8 +480,8 @@
       "en": "Themed cake with a racing bike figure and chequered flags."
     },
     "description": {
-      "bs": "Za male (i velike) ljubitelje brzine. Ombre krema u plavim tonovima, figura motora, trkaće zastavice i broj godina. Tema, boje i figura se mogu prilagoditi — auto, fudbal, crtani junaci…",
-      "en": "For little (and big) speed lovers. Ombré cream in shades of blue, a racing bike figure, chequered flags and the birthday number. Theme, colours and figure can be changed — cars, football, cartoon heroes…"
+      "bs": "Za male (i velike) ljubitelje brzine. Ombre krema u plavim tonovima, figura motora, trkaće zastavice i broj godina. Tema, boje i figura se mogu prilagoditi - auto, fudbal, crtani junaci…",
+      "en": "For little (and big) speed lovers. Ombré cream in shades of blue, a racing bike figure, chequered flags and the birthday number. Theme, colours and figure can be changed - cars, football, cartoon heroes…"
     },
     "allergens": ["gluten", "eggs", "milk"],
     "images": ["torta-motor-1"],

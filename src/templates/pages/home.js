@@ -52,7 +52,7 @@ function hero(ctx) {
           <span>${L(p.name)}</span>
         </a>`,
       )}
-      <p class="signature" aria-hidden="true">— ${site.owner.name}, ${t('hero.roleLower')}</p>
+      <p class="signature" aria-hidden="true">- ${site.owner.name}, ${t('hero.roleLower')}</p>
     </div>
   </div>
 </section>`;

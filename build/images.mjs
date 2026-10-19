@@ -25,7 +25,7 @@ export async function processImages({ log = console.log } = {}) {
   const previous = fs.existsSync(MANIFEST) ? JSON.parse(fs.readFileSync(MANIFEST, 'utf8')) : {};
   const files = fs.existsSync(IMG_DIR) ? fs.readdirSync(IMG_DIR).filter((f) => /\.(jpe?g|png|webp)$/i.test(f)) : [];
   const sharp = files.length ? await loadSharp() : null;
-  if (files.length && !sharp) log('⚠ sharp is not installed — images will use placeholders.');
+  if (files.length && !sharp) log('⚠ sharp is not installed - images will use placeholders.');
 
   const manifest = {};
   let encoded = 0;

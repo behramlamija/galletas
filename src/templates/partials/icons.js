@@ -1,4 +1,4 @@
-// Inline SVG icon set — 24×24, 1.75px rounded strokes, inherits currentColor.
+// Inline SVG icon set - 24×24, 1.75px rounded strokes, inherits currentColor.
 import { raw } from '../../../build/lib/html.js';
 
 const PATHS = {

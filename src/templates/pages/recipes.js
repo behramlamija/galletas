@@ -80,7 +80,7 @@ export function recipe(ctx, r) {
           <p class="eyebrow">${icon('rolling')} ${t('recipe.eyebrow')}</p>
           <h1 class="page-title">${L(r.title)}</h1>
           <p class="page-lead">${L(r.intro)}</p>
-          <p class="recipe-hero__by">— ${ctx.site.owner.name}</p>
+          <p class="recipe-hero__by">- ${ctx.site.owner.name}</p>
           <ul class="recipe-stats">
             <li><span>${t('recipe.prep')}</span><strong>${minutes(ctx, r.prepMinutes)}</strong></li>
             <li><span>${t('recipe.bake')}</span><strong>${r.bakeMinutes ? minutes(ctx, r.bakeMinutes) : t('recipe.noBake')}</strong></li>
@@ -163,7 +163,7 @@ export function recipe(ctx, r) {
 </article>`;
 
   return layout(ctx, {
-    title: `${L(r.title)} — ${t('recipe.eyebrow')}`,
+    title: `${L(r.title)} - ${t('recipe.eyebrow')}`,
     description: L(r.intro).slice(0, 155),
     body,
     pageClass: 'page-recipe',

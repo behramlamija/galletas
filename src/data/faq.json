@@ -9,8 +9,8 @@
   {
     "q": { "bs": "Da li vršite dostavu? Gdje?", "en": "Do you deliver? Where?" },
     "a": {
-      "bs": "Da — dostava na području Mostara košta 5 KM. Za dostavu izvan Mostara javite nam se i dogovorit ćemo se. Lično preuzimanje je uvijek besplatno.",
-      "en": "Yes — delivery within Mostar costs 5 BAM. For delivery outside Mostar, get in touch and we'll arrange it. Pickup is always free."
+      "bs": "Da - dostava na području Mostara košta 5 KM. Za dostavu izvan Mostara javite nam se i dogovorit ćemo se. Lično preuzimanje je uvijek besplatno.",
+      "en": "Yes - delivery within Mostar costs 5 BAM. For delivery outside Mostar, get in touch and we'll arrange it. Pickup is always free."
     }
   },
   {
@@ -23,15 +23,15 @@
   {
     "q": { "bs": "Možete li napraviti tortu bez šećera, glutena ili orašastih plodova?", "en": "Can you make sugar-free, gluten-free or nut-free cakes?" },
     "a": {
-      "bs": "Za neke torte možemo prilagoditi recept — napišite to u napomeni pri narudžbi. Imajte na umu da u kuhinji koristimo gluten, orašaste plodove, jaja i mlijeko, pa ne možemo garantovati potpuno odsustvo tragova.",
-      "en": "We can adapt some recipes — just add a note to your order. Please keep in mind our kitchen uses gluten, nuts, eggs and dairy, so we can't guarantee a product is completely free of traces."
+      "bs": "Za neke torte možemo prilagoditi recept - napišite to u napomeni pri narudžbi. Imajte na umu da u kuhinji koristimo gluten, orašaste plodove, jaja i mlijeko, pa ne možemo garantovati potpuno odsustvo tragova.",
+      "en": "We can adapt some recipes - just add a note to your order. Please keep in mind our kitchen uses gluten, nuts, eggs and dairy, so we can't guarantee a product is completely free of traces."
     }
   },
   {
     "q": { "bs": "Kako čuvati tortu?", "en": "How should I store the cake?" },
     "a": {
-      "bs": "Torte i kremaste kolače čuvajte u frižideru i iznesite ih 15–20 minuta prije služenja. Najbolje su u roku od 2–3 dana.",
-      "en": "Keep cakes and cream pastries in the fridge and take them out 15–20 minutes before serving. They're best within 2–3 days."
+      "bs": "Torte i kremaste kolače čuvajte u frižideru i iznesite ih 15-20 minuta prije služenja. Najbolje su u roku od 2-3 dana.",
+      "en": "Keep cakes and cream pastries in the fridge and take them out 15-20 minutes before serving. They're best within 2-3 days."
     }
   },
   {

@@ -29,7 +29,7 @@ export function about(ctx) {
       <p class="lead-text">${t('about.p1')}</p>
       <p>${t('about.p2')}</p>
       <p>${t('about.p3')}</p>
-      <blockquote class="pull-quote pull-quote--big">${icon('quote')}<p>${t('about.quote')}</p><cite>— ${site.owner.name}, ${site.press.name}</cite></blockquote>
+      <blockquote class="pull-quote pull-quote--big">${icon('quote')}<p>${t('about.quote')}</p><cite>- ${site.owner.name}, ${site.press.name}</cite></blockquote>
       <p>${t('about.p4')}</p>
     </div>
   </div>

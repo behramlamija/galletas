@@ -56,9 +56,9 @@ export function order(ctx) {
           <h2 class="h3" id="summary-title">${t('order.summaryTitle')}</h2>
           <dl class="summary">
             <div><dt>${t('order.items')}</dt><dd data-summary-count>0</dd></div>
-            <div><dt>${t('order.subtotal')}</dt><dd data-summary-subtotal>—</dd></div>
+            <div><dt>${t('order.subtotal')}</dt><dd data-summary-subtotal>-</dd></div>
             <div><dt>${t('order.deliveryLine')}</dt><dd data-summary-delivery>${t('form.free')}</dd></div>
-            <div class="summary__total"><dt>${t('order.total')}</dt><dd data-summary-total>—</dd></div>
+            <div class="summary__total"><dt>${t('order.total')}</dt><dd data-summary-total>-</dd></div>
           </dl>
           <p class="hint">${icon('info')} ${t('order.finalPrice')}</p>
           <p class="hint" data-summary-lead></p>

@@ -256,7 +256,7 @@ export async function build({ prod = false, dev = false } = {}) {
   }
   console.log(
     `✓ built ${pageCount + 2} pages in ${Date.now() - started} ms → dist/${prod ? ' (production)' : ''}` +
-      (placeholderCount ? `\n  ℹ ${placeholderCount} data entries are still placeholders — see CONTENT-TODO.md` : ''),
+      (placeholderCount ? `\n  ℹ ${placeholderCount} data entries are still placeholders - see CONTENT-TODO.md` : ''),
   );
 }
 

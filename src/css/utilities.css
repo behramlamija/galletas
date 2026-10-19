@@ -1,5 +1,5 @@
 @layer utilities {
-  /* Scroll reveal — only hidden once JS confirms it can reveal them again. */
+  /* Scroll reveal - only hidden once JS confirms it can reveal them again. */
   .js .reveal {
     opacity: 0;
     transform: translateY(16px);

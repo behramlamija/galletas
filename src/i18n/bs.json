@@ -37,7 +37,7 @@
     "order": "Naruči"
   },
   "cookieNote": {
-    "text": "Ova stranica ne koristi kolačiće za praćenje — samo one prave, iz pećnice.",
+    "text": "Ova stranica ne koristi kolačiće za praćenje - samo one prave, iz pećnice.",
     "ok": "U redu"
   },
   "footer": {
@@ -47,7 +47,7 @@
     "info": "Informacije",
     "where": "Gdje smo",
     "area": "Mostar i okolina",
-    "hours": "Pon–Sub, 09–19 h",
+    "hours": "Pon-Sub, 09-19 h",
     "rights": "Sva prava zadržana.",
     "cookies": "Ova stranica koristi samo prave kolačiće."
   },
@@ -56,11 +56,11 @@
     "homeDescription": "Ručno rađene torte, kolači i mini deserti poslastičarke Veldine Cokić iz Mostara. Odaberite, prilagodite i naručite online za par klikova.",
     "menuTitle": "Ponuda torti i kolača",
     "menuDescription": "Pogledajte cijelu ponudu: torte, slavljeničke i dječije torte, kolači, breskvice, mini deserti i slatka peciva. Naručite online iz Mostara.",
-    "productSuffix": "Ručno rađeno u Mostaru — naručite online.",
+    "productSuffix": "Ručno rađeno u Mostaru - naručite online.",
     "orderDescription": "Pregledajte korpu i pošaljite narudžbu putem WhatsAppa, Vibera, Instagrama ili emaila.",
     "customDescription": "Torta po vašoj želji za rođendan, krštenje, vjenčanje ili baby shower. Opišite ideju i pošaljite upit.",
-    "recipesDescription": "Recepti za torte i kolače iz kuhinje Eksplozije slatkog — korak po korak, sa preračunavanjem porcija.",
-    "aboutDescription": "Upoznajte Veldinu Cokić — diplomiranu pravnicu koja je ljubav prema pečenju pretvorila u Eksploziju slatkog.",
+    "recipesDescription": "Recepti za torte i kolače iz kuhinje Eksplozije slatkog - korak po korak, sa preračunavanjem porcija.",
+    "aboutDescription": "Upoznajte Veldinu Cokić - diplomiranu pravnicu koja je ljubav prema pečenju pretvorila u Eksploziju slatkog.",
     "contactDescription": "Kontakt, radno vrijeme, dostava u Mostaru i odgovori na najčešća pitanja.",
     "collabDescription": "Saradnja s brendovima: razvoj recepata, sponzorisani reelsi, recenzije proizvoda i događaji.",
     "cuisine": "Bosanska i evropska poslastičarnica"
@@ -71,7 +71,7 @@
     "titleA": "Torte i kolači",
     "titleEm": "s ljubavlju",
     "titleB": "iz Mostara",
-    "lead": "Ručno rađeno, od pravih sastojaka — za vaše najslađe trenutke.",
+    "lead": "Ručno rađeno, od pravih sastojaka - za vaše najslađe trenutke.",
     "ctaOrder": "Naruči tortu",
     "ctaMenu": "Pogledaj ponudu",
     "followers": "pratilaca na Instagramu",
@@ -85,21 +85,21 @@
     "portraitAlt": "Portret: {name}",
     "stamp": "RUČNO RAĐENO • S LJUBAVLJU •",
     "shortTitle": "Pravnica po diplomi, poslastičarka iz ljubavi",
-    "short1": "Ja sam Veldina — diplomirana pravnica koja je svoju najveću ljubav pronašla u kuhinji. Ono što je počelo kao hobi i nekoliko fotografija na Instagramu preraslo je u Eksploziju slatkog.",
+    "short1": "Ja sam Veldina - diplomirana pravnica koja je svoju najveću ljubav pronašla u kuhinji. Ono što je počelo kao hobi i nekoliko fotografija na Instagramu preraslo je u Eksploziju slatkog.",
     "short2": "Svaka torta nastaje ručno, od svježih sastojaka i s istom pažnjom kao da je pravim za svoju porodicu.",
     "quote": "Nije to samo posao, to je ljubav koja spaja.",
     "more": "Više o meni",
     "title": "Priča iza svake torte",
-    "lead": "Od pravnog fakulteta do kuhinje pune mirisa vanilije — upoznajte poslastičarku iza Eksplozije slatkog.",
-    "p1": "Ja sam Veldina — diplomirana pravnica koja je svoju najveću ljubav pronašla u kuhinji.",
+    "lead": "Od pravnog fakulteta do kuhinje pune mirisa vanilije - upoznajte poslastičarku iza Eksplozije slatkog.",
+    "p1": "Ja sam Veldina - diplomirana pravnica koja je svoju najveću ljubav pronašla u kuhinji.",
     "p2": "Dok sam učila zakone i paragrafe, vikendima sam pekla za porodicu i prijatelje. Svaki rođendan, svako slavlje i svaka nedjeljna kafa bili su izgovor za novu tortu. Kada sam počela objavljivati slike na Instagramu, nisam ni slutila da će se iz toga roditi posao.",
-    "p3": "Danas je Eksplozija slatkog mala radionica slatkih trenutaka u srcu Mostara, koju prati više od sto hiljada ljudi. I dalje radim isto što i na početku: pečem ručno, od svježih sastojaka, bez prečica — i svaku narudžbu doživljavam lično.",
+    "p3": "Danas je Eksplozija slatkog mala radionica slatkih trenutaka u srcu Mostara, koju prati više od sto hiljada ljudi. I dalje radim isto što i na početku: pečem ručno, od svježih sastojaka, bez prečica - i svaku narudžbu doživljavam lično.",
     "p4": "Hvala vam što ste dio ove priče. Jedva čekam da napravim nešto posebno i za vaše slavlje.",
     "valuesEyebrow": "Kako radim",
     "valuesTitle": "Tri stvari koje se nikad ne mijenjaju",
     "values": {
       "fresh": { "title": "Pravi sastojci", "text": "Pravi puter, svježa jaja, slatko vrhnje i pasta od 100% pistacije. Bez umjetnih krema i jeftinih zamjena." },
-      "handmade": { "title": "Sve ručno", "text": "Svaka kora, svaki fil i svaki ukras nastaje u mojoj kuhinji — ništa gotovo, ništa iz kutije." },
+      "handmade": { "title": "Sve ručno", "text": "Svaka kora, svaki fil i svaki ukras nastaje u mojoj kuhinji - ništa gotovo, ništa iz kutije." },
       "personal": { "title": "Lični pristup", "text": "Svaku narudžbu dogovaram s vama lično, od okusa do boje mašne. Vaše slavlje je i moje." }
     },
     "timelineEyebrow": "Put do danas",
@@ -110,19 +110,19 @@
       "c": { "year": "2020.", "title": "10.000 pratilaca", "text": "Recepti i videi počinju se dijeliti širom regije." },
       "d": { "year": "2023.", "title": "50.000 pratilaca", "text": "Sve više slavljeničkih torti za rođendane, krštenja i vjenčanja." },
       "e": { "year": "2025.", "title": "100.000+ pratilaca", "text": "Zajednica ljubitelja slatkog raste širom regije i dijaspore." },
-      "f": { "year": "2026.", "title": "Nova web stranica", "text": "Naručivanje postaje brže i jednostavnije — direktno ovdje." }
+      "f": { "year": "2026.", "title": "Nova web stranica", "text": "Naručivanje postaje brže i jednostavnije - direktno ovdje." }
     }
   },
   "featured": {
     "eyebrow": "Iz moje kuhinje",
     "title": "Najtraženije torte i kolači",
-    "lead": "Odaberite omiljeni okus, dodajte u narudžbu i pošaljite — sve na jednom mjestu.",
+    "lead": "Odaberite omiljeni okus, dodajte u narudžbu i pošaljite - sve na jednom mjestu.",
     "all": "Otvori cijelu ponudu"
   },
   "menu": {
     "eyebrow": "Ponuda",
     "title": "Torte, kolači i slatki trenuci",
-    "lead": "Sve se pravi po narudžbi, od svježih sastojaka. Cijene su okvirne — konačnu cijenu potvrđujemo pri dogovoru.",
+    "lead": "Sve se pravi po narudžbi, od svježih sastojaka. Cijene su okvirne - konačnu cijenu potvrđujemo pri dogovoru.",
     "filterLabel": "Filtriraj po kategoriji",
     "all": "Sve",
     "search": "Pretraži ponudu",
@@ -134,13 +134,13 @@
     "empty": "Nismo pronašli taj kolačić… Probajte drugu riječ ili kategoriju.",
     "reset": "Poništi filtere",
     "customTitle": "Imate ideju za posebnu tortu?",
-    "customText": "Opišite nam priliku, okuse i boje — napravit ćemo tortu baš po vašoj mjeri.",
+    "customText": "Opišite nam priliku, okuse i boje - napravit ćemo tortu baš po vašoj mjeri.",
     "customCta": "Torta po želji"
   },
   "how": {
     "eyebrow": "Kako naručiti",
     "title": "Od želje do torte u četiri koraka",
-    "lead": "Bez dugog dopisivanja — sve detalje unesete jednom, a mi vam brzo potvrdimo.",
+    "lead": "Bez dugog dopisivanja - sve detalje unesete jednom, a mi vam brzo potvrdimo.",
     "chooseTitle": "Odaberi",
     "chooseText": "Pronađite tortu ili kolač iz ponude, ili zatražite tortu po želji.",
     "customizeTitle": "Prilagodi",
@@ -172,13 +172,13 @@
   },
   "insta": {
     "title": "Pratite nas na Instagramu",
-    "lead": "Svakodnevno nove torte, kolači i recepti — pridružite se zajednici od {n} ljubitelja slatkog.",
+    "lead": "Svakodnevno nove torte, kolači i recepti - pridružite se zajednici od {n} ljubitelja slatkog.",
     "open": "Otvori Instagram profil",
     "follow": "Zaprati @eksplozija_slatkog"
   },
   "finalCta": {
     "title": "Imate posebnu priliku?",
-    "text": "Rođendan, krštenje, vjenčanje ili samo nedjeljna kafa — napravit ćemo nešto slatko baš za vas.",
+    "text": "Rođendan, krštenje, vjenčanje ili samo nedjeljna kafa - napravit ćemo nešto slatko baš za vas.",
     "order": "Naruči sada",
     "custom": "Torta po želji"
   },
@@ -221,7 +221,7 @@
     "add": "Dodaj u narudžbu",
     "orderWhatsapp": "Naruči odmah putem WhatsAppa",
     "askWhatsapp": "Pitaj putem WhatsAppa",
-    "quoteText": "Svaka slavljenička torta se radi po dogovoru — veličina, okus, boje i natpis. Pošaljite upit i dobit ćete tačnu cijenu.",
+    "quoteText": "Svaka slavljenička torta se radi po dogovoru - veličina, okus, boje i natpis. Pošaljite upit i dobit ćete tačnu cijenu.",
     "quoteCta": "Pošalji upit za ovu tortu",
     "leadTime": "Naručite najmanje {n} dana unaprijed",
     "delivery": "Lično preuzimanje ili dostava u Mostaru ({fee})",
@@ -263,7 +263,7 @@
     "method": "Priprema korak po korak",
     "tip": "Savjet poslastičarke",
     "orderTitle": "Nemate vremena za pečenje? Naručite gotov!",
-    "orderText": "{name} — ručno rađeno i spremno za vaše slavlje.",
+    "orderText": "{name} - ručno rađeno i spremno za vaše slavlje.",
     "orderLink": "Detalji"
   },
   "time": {
@@ -312,13 +312,13 @@
     "allergies": "Alergije",
     "allergiesPlaceholder": "npr. bez orašastih plodova",
     "notes": "Napomena",
-    "notesPlaceholder": "Sve što trebamo znati — boje, posebne želje, kome je dostava…",
+    "notesPlaceholder": "Sve što trebamo znati - boje, posebne želje, kome je dostava…",
     "consent": "Razumijem da narudžba postaje važeća tek kada je poslastičarka potvrdi.",
     "noscript": "Za online narudžbu potreban je JavaScript. Možete nam pisati direktno:"
   },
   "send": {
     "title": "Pošalji narudžbu putem",
-    "hint": "Odaberite aplikaciju — prije slanja ćete vidjeti cijelu poruku.",
+    "hint": "Odaberite aplikaciju - prije slanja ćete vidjeti cijelu poruku.",
     "recommended": "preporučeno",
     "email": "Email",
     "direct": "Pošalji direktno",
@@ -329,7 +329,7 @@
   },
   "success": {
     "title": "Hvala vam! 🍪",
-    "text": "Vaša poruka je spremna. Kada je pošaljete, Veldina će vam potvrditi termin i cijenu — najčešće u roku od 24 sata.",
+    "text": "Vaša poruka je spremna. Kada je pošaljete, Veldina će vam potvrditi termin i cijenu - najčešće u roku od 24 sata.",
     "ref": "Broj narudžbe:",
     "print": "Sačuvaj kao PDF / printaj",
     "clear": "Isprazni korpu",
@@ -343,7 +343,7 @@
     "basketTitle": "Korpa",
     "addMore": "Dodaj još",
     "emptyTitle": "Korpa je još prazna",
-    "emptyText": "Dodajte nešto slatko iz ponude — ili nam opišite tortu iz snova.",
+    "emptyText": "Dodajte nešto slatko iz ponude - ili nam opišite tortu iz snova.",
     "browse": "Pogledaj ponudu",
     "summaryTitle": "Pregled",
     "items": "Artikli",
@@ -361,7 +361,7 @@
     "lead": "Rođendani, krštenja, vjenčanja i tematske torte. Opišite ideju, a mi ćemo vam poslati prijedlog i cijenu.",
     "cakeTitle": "Vaša torta",
     "design": "Inspiracija iz ponude",
-    "designNone": "Bez inspiracije — nova ideja",
+    "designNone": "Bez inspiracije - nova ideja",
     "guests": "Broj osoba",
     "tiers": "Broj spratova",
     "tier1": "1 sprat",
@@ -411,8 +411,8 @@
     "budgetAny": "Nije bitno",
     "budgets": {
       "do100": "do 100 KM",
-      "100-150": "100–150 KM",
-      "150-250": "150–250 KM",
+      "100-150": "100-150 KM",
+      "150-250": "150-250 KM",
       "250plus": "250+ KM"
     },
     "idea": "Opišite svoju ideju",
@@ -425,14 +425,14 @@
   },
   "contact": {
     "eyebrow": "Kontakt",
-    "title": "Javite se — rado ćemo pomoći",
+    "title": "Javite se - rado ćemo pomoći",
     "lead": "Najbrže odgovaramo na Instagramu i WhatsAppu. Narudžbe primamo u bilo koje doba, a odgovaramo u radno vrijeme.",
     "instagramNote": "Pišite nam u DM",
     "whatsappNote": "Najbrži odgovor",
     "phone": "Telefon",
     "email": "Email",
     "hoursTitle": "Radno vrijeme",
-    "hours": "Ponedjeljak – subota, {open} – {close}",
+    "hours": "Ponedjeljak - subota, {open} - {close}",
     "hoursNote": "Nedjeljom ne radimo, ali poruke možete slati bilo kada.",
     "areaTitle": "Područje",
     "area": "Lično preuzimanje u Mostaru, dostava na području Mostara i okoline (po dogovoru).",
@@ -445,7 +445,7 @@
   },
   "collab": {
     "promoTitle": "Brend ste i želite saradnju?",
-    "promoText": "Recepti, reelsi, recenzije proizvoda i događaji — pogledajte kako možemo raditi zajedno.",
+    "promoText": "Recepti, reelsi, recenzije proizvoda i događaji - pogledajte kako možemo raditi zajedno.",
     "promoCta": "Saradnja",
     "eyebrow": "Saradnja",
     "title": "Hajde da napravimo nešto slatko zajedno",
@@ -462,7 +462,7 @@
       "events": { "title": "Događaji", "text": "Torte i deserti za promocije, otvorenja i korporativne događaje." }
     },
     "ctaTitle": "Pošaljite prijedlog saradnje",
-    "ctaText": "Napišite nam nekoliko riječi o brendu i ideji — javit ćemo se u roku od par dana.",
+    "ctaText": "Napišite nam nekoliko riječi o brendu i ideji - javit ćemo se u roku od par dana.",
     "mailSubject": "Prijedlog saradnje",
     "ctaEmail": "Pošalji email",
     "ctaDm": "Pošalji DM"
@@ -473,7 +473,7 @@
     "sections": {
       "a": { "title": "Bez praćenja", "text": "Ova stranica ne koristi kolačiće za praćenje, analitiku niti oglase. Ne učitavamo skripte trećih strana." },
       "b": { "title": "Šta se čuva u vašem pregledniku", "text": "Sadržaj korpe, odabrani jezik, tema i označeni sastojci u receptima čuvaju se samo u vašem pregledniku (localStorage). Ti podaci nikada ne napuštaju vaš uređaj i možete ih obrisati brisanjem podataka stranice." },
-      "c": { "title": "Kako se šalje narudžba", "text": "Kada pošaljete narudžbu, poruka se otvara u aplikaciji koju sami odaberete (WhatsApp, Viber, Instagram ili email). Mi vaše podatke ne spremamo na server — dobijamo ih samo kroz tu poruku i koristimo isključivo za dogovor oko narudžbe." },
+      "c": { "title": "Kako se šalje narudžba", "text": "Kada pošaljete narudžbu, poruka se otvara u aplikaciji koju sami odaberete (WhatsApp, Viber, Instagram ili email). Mi vaše podatke ne spremamo na server - dobijamo ih samo kroz tu poruku i koristimo isključivo za dogovor oko narudžbe." },
       "d": { "title": "Karta i vanjski linkovi", "text": "Google karta na stranici Kontakt učitava se tek kada kliknete na nju. Linkovi prema Instagramu, Facebooku i WhatsAppu vode na servise koji imaju vlastita pravila privatnosti." },
       "e": { "title": "Kontakt", "text": "Za sva pitanja o vašim podacima pišite nam na email ili Instagram." }
     },
@@ -510,15 +510,15 @@
       "email": "Unesite ispravnu email adresu.",
       "date": "Odaberite datum.",
       "dateTooSoon": "Najraniji mogući datum je {date}.",
-      "dateClosed": "Tog dana ne radimo — odaberite drugi datum.",
+      "dateClosed": "Tog dana ne radimo - odaberite drugi datum.",
       "dateTooFar": "Narudžbe primamo najviše {n} dana unaprijed.",
       "time": "Odaberite vrijeme.",
       "address": "Unesite adresu za dostavu.",
       "consent": "Potvrdite da razumijete uslove narudžbe.",
-      "basketEmpty": "Korpa je prazna — dodajte barem jedan proizvod."
+      "basketEmpty": "Korpa je prazna - dodajte barem jedan proizvod."
     },
     "copied": "Poruka kopirana 📋",
-    "copyFailed": "Kopiranje nije uspjelo — označite tekst i kopirajte ga ručno.",
+    "copyFailed": "Kopiranje nije uspjelo - označite tekst i kopirajte ga ručno.",
     "confirm": {
       "whatsapp": "Otvori WhatsApp",
       "viber": "Otvori Viber",
@@ -527,15 +527,15 @@
       "direct": "Pošalji direktno"
     },
     "notes": {
-      "instagram": "Instagram ne dozvoljava unaprijed popunjene poruke. Poruka će se kopirati — samo je zalijepite u chat.",
-      "viber": "Ako se Viber ne otvori, poruka je kopirana — zalijepite je u chat na broj {phone}.",
+      "instagram": "Instagram ne dozvoljava unaprijed popunjene poruke. Poruka će se kopirati - samo je zalijepite u chat.",
+      "viber": "Ako se Viber ne otvori, poruka je kopirana - zalijepite je u chat na broj {phone}.",
       "email": "Otvorit će se vaša email aplikacija s popunjenom porukom."
     },
-    "igToast": "Poruka kopirana — zalijepite je u chat 📋",
+    "igToast": "Poruka kopirana - zalijepite je u chat 📋",
     "sending": "Šaljem…",
     "sentDirect": "Narudžba je poslana!",
     "sendError": "Slanje nije uspjelo. Pokušajte putem WhatsAppa.",
-    "cookOn": "Kuhinjski mod je uključen — ekran ostaje upaljen.",
+    "cookOn": "Kuhinjski mod je uključen - ekran ostaje upaljen.",
     "cookOff": "Kuhinjski mod je isključen.",
     "basketCleared": "Korpa je ispražnjena."
   }

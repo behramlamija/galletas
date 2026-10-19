@@ -1,5 +1,5 @@
-// Builds the order / enquiry text. It is always written in Bosnian — the owner's
-// working language — with an [EN] tag when the customer used the English site.
+// Builds the order / enquiry text. It is always written in Bosnian - the owner's
+// working language - with an [EN] tag when the customer used the English site.
 import { app, findProduct } from '../utils/app.js';
 import { moneyBs, formatDateBs, parseISODate } from '../utils/format.js';
 
@@ -43,7 +43,7 @@ export function lineItems(items) {
     else subtotal += price;
     const parts = [`${i.qty}× ${p.nameBs}`, opt?.labelBs, flavour && `okus: ${flavour.labelBs}`, i.inscription && `natpis: "${i.inscription}"`];
     parts.push(price == null ? 'cijena na upit' : moneyBs(price));
-    return `• ${parts.filter(Boolean).join(' — ')}`;
+    return `• ${parts.filter(Boolean).join(' - ')}`;
   });
   return { lines, subtotal, hasQuote };
 }
@@ -52,7 +52,7 @@ export function orderMessage(ref, f, items) {
   const { lines, subtotal } = lineItems(items);
   const fee = f.fulfilment === 'delivery' ? app().ordering.deliveryFeeMostar : 0;
   return [
-    `🍰 NOVA NARUDŽBA — ${ref}`,
+    `🍰 NOVA NARUDŽBA - ${ref}`,
     LINE,
     contactBlock(f),
     '',
@@ -60,8 +60,8 @@ export function orderMessage(ref, f, items) {
     ...lines,
     '',
     `💰 Okvirno: ${moneyBs(subtotal)}${fee ? ` + dostava ${moneyBs(fee)}` : ''}`,
-    `⚠️ Alergije: ${f.allergies || '—'}`,
-    `📝 Napomena: ${f.notes || '—'}`,
+    `⚠️ Alergije: ${f.allergies || '-'}`,
+    `📝 Napomena: ${f.notes || '-'}`,
     footer(),
   ].join('\n');
 }
@@ -70,7 +70,7 @@ export function customMessage(ref, f) {
   const msg = app().msg;
   const design = f.design && findProduct(f.design);
   const list = (values, dict) => [].concat(values || []).map((v) => dict[v] || v).join(', ');
-  const lines = [`🎂 UPIT ZA TORTU PO ŽELJI — ${ref}`, LINE, contactBlock(f), ''];
+  const lines = [`🎂 UPIT ZA TORTU PO ŽELJI - ${ref}`, LINE, contactBlock(f), ''];
   if (design) lines.push(`✨ Inspiracija: ${design.nameBs} (${app().siteUrl.replace(/\/$/, '')}${design.url})`);
   lines.push(`👥 Broj osoba: ${f.guests}`);
   lines.push(`🏰 Spratova: ${f.tiers}`);
@@ -80,7 +80,7 @@ export function customMessage(ref, f) {
   if (f.colours?.length) lines.push(`🎨 Boje: ${list(f.colours, msg.colours)}`);
   if (f.inscription) lines.push(`✍️ Natpis: "${f.inscription}"`);
   if (f.budget) lines.push(`💰 Budžet: ${msg.budgets[f.budget] || f.budget}`);
-  lines.push(`💡 Ideja: ${f.idea || '—'}`);
+  lines.push(`💡 Ideja: ${f.idea || '-'}`);
   lines.push('📷 Slike inspiracije šaljem u nastavku.');
   lines.push(footer());
   return lines.join('\n');

@@ -84,9 +84,9 @@ export function initOrder() {
     const { subtotal, hasQuote } = lineItems(items);
     const delivery = form.elements.fulfilment.value === 'delivery' ? app().ordering.deliveryFeeMostar : 0;
     $('[data-summary-count]', page).textContent = t('items', { n: count() });
-    $('[data-summary-subtotal]', page).textContent = items.length ? money(subtotal) + (hasQuote ? ' +' : '') : '—';
+    $('[data-summary-subtotal]', page).textContent = items.length ? money(subtotal) + (hasQuote ? ' +' : '') : '-';
     $('[data-summary-delivery]', page).textContent = delivery ? money(delivery) : t('free');
-    $('[data-summary-total]', page).textContent = items.length ? money(subtotal + delivery) + (hasQuote ? ' +' : '') : '—';
+    $('[data-summary-total]', page).textContent = items.length ? money(subtotal + delivery) + (hasQuote ? ' +' : '') : '-';
     $('[data-summary-lead]', page).textContent = dateHint.textContent;
   };
 

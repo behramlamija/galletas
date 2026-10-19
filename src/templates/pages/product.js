@@ -12,7 +12,7 @@ function gallery(ctx, p) {
   <button type="button" class="gallery__main" data-gallery-open aria-label="${t('product.zoom')}">
     ${p.images.map(
       (img, i) => html`<div class="gallery__slide${i === 0 ? ' is-active' : ''}" data-gallery-slide="${i}"${i ? html` hidden` : ''}>
-        ${ctx.picture(img, { alt: p.images.length > 1 ? `${name} — ${i + 1}/${p.images.length}` : name, sizes: '(min-width: 900px) 50vw, 100vw', eager: i === 0, label: name })}
+        ${ctx.picture(img, { alt: p.images.length > 1 ? `${name} - ${i + 1}/${p.images.length}` : name, sizes: '(min-width: 900px) 50vw, 100vw', eager: i === 0, label: name })}
       </div>`,
     )}
     <span class="bite bite--big" aria-hidden="true"><i></i><i></i><i></i><i></i></span>

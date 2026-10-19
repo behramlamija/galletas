@@ -7,7 +7,7 @@ const NAV = ['home', 'menu', 'recipes', 'about', 'contact'];
 const SECTION = { product: 'menu', recipe: 'recipes', custom: 'menu', order: 'menu', collab: 'about', privacy: 'contact' };
 
 export function brand(ctx) {
-  return html`<a class="brand" href="${ctx.url('home')}" aria-label="${ctx.site.name} — ${ctx.t('nav.home')}">
+  return html`<a class="brand" href="${ctx.url('home')}" aria-label="${ctx.site.name} - ${ctx.t('nav.home')}">
     ${logoMark()}
     <span class="brand__name">Eksplozija <span>Slatkog</span></span>
   </a>`;
