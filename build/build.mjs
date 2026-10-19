@@ -190,15 +190,16 @@ export async function build({ prod = false, dev = false } = {}) {
   ].join('; ');
   write(
     '_headers',
-    `/*\n  Content-Security-Policy: ${csp}\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Content-Type-Options: nosniff\n  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()\n\n/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/assets/lang-redirect.js\n  Cache-Control: public, max-age=3600\n`,
+    `/*\n  Content-Security-Policy: ${csp}\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Content-Type-Options: nosniff\n  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()\n` +
+      // Long caching only where file names change with their content (production build).
+      (prod
+        ? ['/assets/img/*', '/assets/fonts/*', '/assets/main.*', '/assets/theme.*']
+            .map((p) => `\n${p}\n  Cache-Control: public, max-age=31536000, immutable\n`)
+            .join('')
+        : ''),
   );
-  // Netlify-style redirects: English browsers go to /en/, everyone else to the default language.
-  const otherLangs = site.languages.filter((l) => l.code !== site.defaultLang);
-  write(
-    '_redirects',
-    otherLangs.map((l) => `/  ${base}/${l.code}/  302  Language=${l.code}`).join('\n') +
-      `\n/  ${base}/${site.defaultLang}/  302\n`,
-  );
+  // No _redirects file: the root index.html picks the language (saved choice or browser
+  // language) itself, which works the same on Cloudflare, Netlify and plain hosting.
 
   const short = site.name;
   write(

@@ -100,8 +100,12 @@ appears and posts the order as JSON. The CSP in `dist/_headers` automatically al
 
 `dist/` is a plain static folder. After `npm run build:prod`:
 
+- **Cloudflare (Workers)**: connect the GitHub repo, build command `npm run build:prod`, deploy command
+  `npx wrangler deploy`. Settings live in `wrangler.jsonc` (serves `dist/`, `404.html` for unknown URLs).
+  Add your domain under *Settings → Domains & Routes → Custom domain*, then set `url` in `site.json`.
 - **Netlify / Cloudflare Pages**: build command `npm run build:prod`, publish directory `dist`.
-  `_headers` (security headers, caching) and `_redirects` (language redirect for `/`) are picked up automatically.
+- `_headers` (security headers, caching) is picked up automatically on Cloudflare and Netlify.
+  The root `/` chooses the language itself (saved choice → browser language → Bosnian).
 - **GitHub Pages**: publish `dist/`. If the site lives under a sub-path (e.g. `/repo-name`), set `basePath` in `site.json`.
 - **Any web host (cPanel, FTP)**: upload the contents of `dist/`. Set the headers from `dist/_headers` in the
   server config if possible; `404.html` should be configured as the error page.
