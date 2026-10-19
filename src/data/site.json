@@ -1,7 +1,7 @@
 {
   "name": "Eksplozija Slatkog",
-  "url": "https://eksplozijaslatkog.ba",
-  "urlPlaceholder": true,
+  "url": "https://galletas.behramlamija.workers.dev",
+  "urlPlaceholder": false,
   "basePath": "",
   "defaultLang": "bs",
   "languages": [

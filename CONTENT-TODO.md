@@ -8,7 +8,7 @@ a zatim se pokrene `npm run build:prod`.
 - [ ] **Broj telefona** za WhatsApp i Viber (`contact.whatsapp`, `contact.viber` — format `38761234567`, bez `+`)
       i prikaz broja (`contact.phoneDisplay`). Trenutno: `+387 60 000 0000`.
 - [ ] **Email za narudžbe** (`contact.email`). Trenutno: `narudzbe@eksplozijaslatkog.ba`.
-- [ ] **Domena stranice** (`url`). Trenutno: `https://eksplozijaslatkog.ba`.
+- [x] **Adresa stranice** (`url`): `https://galletas.behramlamija.workers.dev`. Ako kasnije kupite domenu, promijenite je ovdje.
 - [ ] Tačan **Facebook link** (`contact.facebook`).
 - [ ] **Link na članak Pogled.ba** (`press.url`). Trenutno vodi na naslovnu Pogled.ba.
 - [ ] **Radno vrijeme** i neradni dani (`hours`, `ordering.closedDays`). Trenutno: pon–sub 09–19, nedjelja zatvoreno.
