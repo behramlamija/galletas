@@ -1,6 +1,6 @@
 # Eksplozija Slatkog — website
 
-Static website for **Eksplozija Slatkog**, the cake and pastry business of pastry chef **Veldina Cokić** from Mostar.
+Static website for **Eksplozija Slatkog**, the cake and pastry business of pastry chef from Mostar.
 Visitors browse the menu, customise a cake, and send a structured order via WhatsApp, Viber, Instagram DM or email —
 no database, no backend.
 
